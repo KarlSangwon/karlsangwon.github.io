@@ -112,10 +112,26 @@ Memberships/Leaderships
 * Treasurer & Co-leader, AANS NYU School of Medicine Student Chapter (2022-Present)
 * Co-Chair, Johns Hopkins Hospital Art Cart Organization (2018-2022)
 
-Volunteering
+Extracurricular Activites
 ======
-* Co-Chair – Johns Hopkins Hospital Art Cart Organization, 
-  * Baltimore, MD 08/2018 – 05/2022
-  * Provided free arts and crafts sessions to children, patients, and their families around Johns Hopkins Hospital and Baltimore Ronald McDonald House as a way to provide Art Therapy. Introduced paper origami as one of the regular craft ideas for Art Cart sessions. 
-  * Led an Art Therapy Coloring Book project “Hopkins in Color” as the project lead during COVID-19 to distribute free coloring books to patients. Upon popular demand, coloring book was printed in 3 languages, partnered with Taylor Communications, and distributed to various wards at the Johns Hopkins Hospital in collaboration with JHH Patient and Family Advisory Council (PFAC). 
-  * Supervisor: Amberly Bark
+* Art [See Portfolio Website: https://karlsangwon.wixsite.com/karlsangwon]
+  *  Surrealism/Abstract Painting
+  *  Selected for Permanent Display 2023 at Student Lounge, NYU Grossman School of Medicine, New York, NY 
+  *  Published Art Therapy Coloring Book “Hopkins in Color,” Taylor Communications in English, Spanish, and Arabic. Distributed at the Johns Hopkins Hospital 2022.  
+  *  Magyar Art Award (local art award) 2018, Marietta, GA 
+  *  Marietta Chalk Festival 1st Place 2017, 2018 
+  *  Featured on Magazine Cobb in Focus May/June 2018 Edition. 
+  *  Displayed at Rescuing Hope 2017, Atlanta, GA 
+  *  Held Gallery Exhibit 2018 at Markay Gallery, Marietta, GA  
+
+* Music
+  * Guitarist for Medical School Band 'Atrial Flutter'
+
+* Volunteering
+  * Co-Chair – Johns Hopkins Hospital Art Cart Organization, 
+    * Baltimore, MD 08/2018 – 05/2022
+    * Provided free arts and crafts sessions to children, patients, and their families around Johns Hopkins Hospital and Baltimore Ronald McDonald House as a way to provide Art Therapy. Introduced paper origami as one of the regular craft ideas for Art Cart sessions. 
+    * Led an Art Therapy Coloring Book project “Hopkins in Color” as the project lead during COVID-19 to distribute free coloring books to patients. Upon popular demand, coloring book was printed in 3 languages, partnered with Taylor Communications, and distributed to various wards at the Johns Hopkins Hospital in collaboration with JHH Patient and Family Advisory Council (PFAC). 
+    * Supervisor: Amberly Bark
+
+* Misc.: Camping & Backpack Traveling Abroad, Jiu Jitsu 
