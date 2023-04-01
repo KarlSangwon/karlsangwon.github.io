@@ -16,13 +16,13 @@ Education
 
 Research/Work Experience
 ======
-* 10/2022-Present: Medical Student Researcher
+* 10/2022 – Present: Medical Student Researcher
   * NYU Langone Health – OLAB, New York, NY
   * Initiated and leading a flagship project with diffusion model application for prediction of brain metastases post-SRS. 
   * Collaboration with other neurosurgeons to solve clinical problems using data science. With Dr. Erez Nossek, a cerebrovascular neurosurgeon, I performed the main analysis of the role of Virtual Reality devices on anastomosis surgery planning and assisted Flow800/Machine Learning projects. Leading a project on Flow800 intraoperative hemodynamic parameter metrics to predict post-anastomosis patency. With Dr. Derryl Lau and his spine surgery team, I have served as the data scientist on studies investigating role of neuromonitoring data on spine surgery outcomes as well as several clinical outcome projects. 
   * Supervisor: Eric Oermann, MD
 
-* 02/2019-05/2022: Research Intern
+* 02/2019 – 05/2022: Research Intern
   * Johns Hopkins Medicine – Institute for Cell Engineering, Baltimore, MD
   * With an active role in study and manuscript design, conducted various experiments, and analyzed data for mechanistic studies of pathophysiology of Parkinson’s Disease. Conducted screening experiments for Circadian Rhythm controlling genes and Poly(ADP-ribose) (PAR) interactions.  
   * Conducted experiments for novel characterization of PAR-binding proteome (PARome) to identify proteins and respective protein motifs that interact with PAR non-covalently. 
@@ -31,10 +31,26 @@ Research/Work Experience
 
 * 06/2021 – 08/2021: Research Intern
   * Johns Hopkins Medicine – Department of Internal Medicine, Baltimore, MD
-  * With an active role in study and manuscript design, conducted various experiments, and analyzed data for mechanistic studies of pathophysiology of Parkinson’s Disease. Conducted screening experiments for Circadian Rhythm controlling genes and Poly(ADP-ribose) (PAR) interactions.  
-  * Conducted experiments for novel characterization of PAR-binding proteome (PARome) to identify proteins and respective protein motifs that interact with PAR non-covalently. 
-  * Conducted experiments, computational analysis, and wrote manuscript for a study on novel mechanism identification of Cov-2 N protein’s interaction with PAR-associated degradation pathway. 
-  * Supervisor: Ted Dawson, MD, PhD. Sung-Ung Kang, MD, PhD. 
+  * Collaborating with Mayo Clinic, contributed to designing of a novel mathematical approach to solve a medical term binding problem in medical ontologies, such as SNOMED-CT, using a new concept of proxy individuals and existential elimination from relational logic and improve semantic consistency of medical coding systems. 
+  * Supervisor: Chris Chute, MD, PhD. Harold Solbrig
+
+* 12/2020 – 05/2021: Research Intern
+  * Johns Hopkins University – Biomedical Engineering, Baltimore, MD
+  * Trained and optimized a U-net to perform semantic segmentation and annotation of Tau particles in histology data of Alzheimer’s Disease Patients as a part of BIOCARD project to help with multi-modal analysis across histology and MRI data framework. 
+  * Designed a novel script in ImageJ using Jython to fully automate data processing pipeline of Carl Zeiss Image (.czi) files of brain histology. 
+  * Supervisor: Michael Miller, PhD. Daniel Tward, PhD. 
+
+* 05/2020 – 08/2020: Computational Genomic Analyst / Research Intern
+  * UCLA – Institute for Quantitative & Computational Biosciences, Los Angeles, CA
+  * Conducted Multi-omic level analysis to identify network perturbation of Glial Cells in psychiatric disorders. Generated rich data of novel gene modules for future mechanistic, therapeutic studies. Summer project funded by NIH Educational Grant 5R25MH109172-05.
+  * Presented at UCLA B.I.G. Symposium 2020. Received Research Excellence Award. 
+  * Supervisor: Xia Yang, PhD. Yanning Zuo. 
+
+* 08/2018 – 02/2019: Research Intern
+  * F.M. Kirby Research Center for Functional Brain Imaging, Baltimore, MD
+  * Developed a 3D kernel Convolutional Neural Network pipeline for detection of Cerebral Microbleeds using novel Quantitative Susceptibility Mapping (QSM) MRI dataset.
+  * Presented at UCLA B.I.G. Symposium 2020. Received Research Excellence Award. 
+  * Supervisor: Peter van Zijl, PhD. Xu Li, PhD.
 
 Skills
 ======
@@ -87,6 +103,12 @@ Teaching
   - For Undergraduate Calculus III/Organic Chemistry II.
 
   
-Membership
+Memberships/Leaderships
 ======
-* Currently signed in to 43 different slack teams
+* Scholar, One for Two Education Foundation (2018-Present)
+* Member (2022-Present)
+  * Phi Beta Kappa
+  * AANS
+  * RSNA
+* Treasurer & Co-leader, AANS NYU School of Medicine Student Chapter (2022-Present)
+* Co-Chair, Johns Hopkins Hospital Art Cart Organization (2018-2022)
