@@ -54,12 +54,12 @@ Research/Work Experience
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages
+  * Python, R, MATLAB, Mathematica
+* Laboratory
+  * General Laboratory Techniques for Organic Chemistry, Biochemistry, Cell Biology, Neuroscience (e.g. Western blot, culturing, chromatography, cloning, SDS/Native-PAGE, etc.)
+* Languages
+  * English, Korean, Spanish, Japanese
 
 Publications
 ======
@@ -102,7 +102,6 @@ Teaching
   - Baltimore, MD 09/2019 – 05/2021 
   - For Undergraduate Calculus III/Organic Chemistry II.
 
-  
 Memberships/Leaderships
 ======
 * Scholar, One for Two Education Foundation (2018-Present)
@@ -112,3 +111,11 @@ Memberships/Leaderships
   * RSNA
 * Treasurer & Co-leader, AANS NYU School of Medicine Student Chapter (2022-Present)
 * Co-Chair, Johns Hopkins Hospital Art Cart Organization (2018-2022)
+
+Volunteering
+======
+* Co-Chair – Johns Hopkins Hospital Art Cart Organization, 
+  * Baltimore, MD 08/2018 – 05/2022
+  * Provided free arts and crafts sessions to children, patients, and their families around Johns Hopkins Hospital and Baltimore Ronald McDonald House as a way to provide Art Therapy. Introduced paper origami as one of the regular craft ideas for Art Cart sessions. 
+  * Led an Art Therapy Coloring Book project “Hopkins in Color” as the project lead during COVID-19 to distribute free coloring books to patients. Upon popular demand, coloring book was printed in 3 languages, partnered with Taylor Communications, and distributed to various wards at the Johns Hopkins Hospital in collaboration with JHH Patient and Family Advisory Council (PFAC). 
+  * Supervisor: Amberly Bark
