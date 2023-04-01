@@ -28,7 +28,14 @@ Research/Work Experience
   * Conducted experiments for novel characterization of PAR-binding proteome (PARome) to identify proteins and respective protein motifs that interact with PAR non-covalently. 
   * Conducted experiments, computational analysis, and wrote manuscript for a study on novel mechanism identification of Cov-2 N protein’s interaction with PAR-associated degradation pathway. 
   * Supervisor: Ted Dawson, MD, PhD. Sung-Ung Kang, MD, PhD. 
-  
+
+* 06/2021 – 08/2021: Research Intern
+  * Johns Hopkins Medicine – Department of Internal Medicine, Baltimore, MD
+  * With an active role in study and manuscript design, conducted various experiments, and analyzed data for mechanistic studies of pathophysiology of Parkinson’s Disease. Conducted screening experiments for Circadian Rhythm controlling genes and Poly(ADP-ribose) (PAR) interactions.  
+  * Conducted experiments for novel characterization of PAR-binding proteome (PARome) to identify proteins and respective protein motifs that interact with PAR non-covalently. 
+  * Conducted experiments, computational analysis, and wrote manuscript for a study on novel mechanism identification of Cov-2 N protein’s interaction with PAR-associated degradation pathway. 
+  * Supervisor: Ted Dawson, MD, PhD. Sung-Ung Kang, MD, PhD. 
+
 Skills
 ======
 * Skill 1
