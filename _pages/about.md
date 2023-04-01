@@ -28,7 +28,7 @@ Abstracts/Presentations
 *previous name: Sangwon Lee*
 - Kim NC, **Sangwon KL**, et al. “The Impact of Sarcopenic Obesity on Perioperative Morbidity and Mechanical Complications Following Lumbar Fusion.” Accepted and presented at AANS/CNS Spine Summit 2023. 
 - **Sangwon KL**, Liu A, et al. “Predicting STA-MCA Anastomosis Patency Using FLOW800” Submitted to EANS 2023. 
-- Kim, NC. Budimlija, Z. Sangwon KL. et al. “Utility of Pre-flip Neuromonitoring Baselines for Posterior Decompression and Fusion for Cervical Myelopathy.” Submitted to Europe Cervical Spine Research Society 2023.  
+- Kim, NC. Budimlija, Z. **Sangwon KL**. et al. “Utility of Pre-flip Neuromonitoring Baselines for Posterior Decompression and Fusion for Cervical Myelopathy.” Submitted to Europe Cervical Spine Research Society 2023.  
 - **Sangwon KL**, Oermann EK. “MRImagine: Generative AI to Predict and Visualize Post-SRS ‘Future’ MRI of Brain Metastases.” Presented at AANS NYU Chapter Medical Student Research Seminar, New York, NY 12/2022.   
 - Wiggan DD, Rabin-Birnbaum C, **Sangwon, KL**, Nossek E. “Learning Curve for Vascular Anastomoses using the MUSA Microsurgical Robotic Platform.” Presented at AANS NYU Chapter Medical Student Research Seminar, New York, NY 12/2022.   
 - Stouffer KM, Xu E, **Lee KS**, et al. “Synthesizing Spatial Scales: Computational Tools for Multi-Modal Multi-Scale Neuroimage Registration and Analysis.” Accepted at Alzheimer's Association International Conference (AAIC) 2022. Accepted and Presented at BRAIN initiative 2022.   
