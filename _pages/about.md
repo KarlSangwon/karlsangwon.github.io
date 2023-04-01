@@ -1,14 +1,12 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "About me"
+excerpt: "A bit about me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-A bit about me:
 
 My name is Karl L. Sangwon. I'm currently a medical student at NYU Grossman School of Medicine, who has interest in Artificial Intelligence research and entrepreneurship. My main interest lies in augmenting modern medicine using advanced technologies, to create a more 21-century-like 'cyberpunk' medical paradigm that fits my vision. It is my passionate vision to expand, represent, and clinically re-define our traditional definitions as well as approaches toward ‘diseases and disorders’ in a more mathematical, computable manner.
 
