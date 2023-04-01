@@ -122,7 +122,7 @@ Memberships/Leaderships
 
 Extracurricular Activites
 ======
-* Art [See Portfolio Website: https://karlsangwon.wixsite.com/karlsangwon]
+* Art **[See Portfolio Website: https://karlsangwon.wixsite.com/karlsangwon]**
   *  Surrealism/Abstract Painting
   *  Selected for Permanent Display 2023 at Student Lounge, NYU Grossman School of Medicine, New York, NY 
   *  Published Art Therapy Coloring Book “Hopkins in Color,” Taylor Communications in English, Spanish, and Arabic. Distributed at the Johns Hopkins Hospital 2022.  
