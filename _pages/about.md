@@ -25,6 +25,7 @@ Publications
 
 Abstracts/Presentations
 ======
+*previous name: Sangwon Lee*
 - Kim NC, **Sangwon KL**, et al. “The Impact of Sarcopenic Obesity on Perioperative Morbidity and Mechanical Complications Following Lumbar Fusion.” Accepted and presented at AANS/CNS Spine Summit 2023. 
 - **Sangwon KL**, Liu A, et al. “Predicting STA-MCA Anastomosis Patency Using FLOW800” Submitted to EANS 2023. 
 - Kim, NC. Budimlija, Z. Sangwon KL. et al. “Utility of Pre-flip Neuromonitoring Baselines for Posterior Decompression and Fusion for Cervical Myelopathy.” Submitted to Europe Cervical Spine Research Society 2023.  
