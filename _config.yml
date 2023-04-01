@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Karl L. Sangwon"
 title_separator          : "-"
 name                     : &name "Karl L. Sangwon"
-description              : &description "personal description"
+description              : &description "Simple Academic Portfolio Website for Karl L. Sangwon"
 url                      : https://karlsangwon.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "KarlSangwon/karlsangwon.github.io"
@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Karl L. Sangwon"
-  avatar           : "profile.png"
+  avatar           : "IMG_5960.png"
   bio              : "Medical Student that does some research"
   location         : "New York City, NY"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=karl+sangwon"
+  googlescholar    : "https://scholar.google.com/citations?user=YmeTZNoAAAAJ&hl=en&authuser=1&oi=aom"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "karlsangwon"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0002-6941-3001"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "karlsangwon"
   vine             :
   weibo            :
   xing             :
