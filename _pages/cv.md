@@ -16,15 +16,18 @@ Education
 
 Research/Work Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 10/2022-Present: Medical Student Researcher
+  * NYU Langone Health – OLAB, New York, NY
+  * Initiated and leading a flagship project with diffusion model application for prediction of brain metastases post-SRS. 
+  * Collaboration with other neurosurgeons to solve clinical problems using data science. With Dr. Erez Nossek, a cerebrovascular neurosurgeon, I performed the main analysis of the role of Virtual Reality devices on anastomosis surgery planning and assisted Flow800/Machine Learning projects. Leading a project on Flow800 intraoperative hemodynamic parameter metrics to predict post-anastomosis patency. With Dr. Derryl Lau and his spine surgery team, I have served as the data scientist on studies investigating role of neuromonitoring data on spine surgery outcomes as well as several clinical outcome projects. 
+  * Supervisor: Eric Oermann, MD
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 02/2019-05/2022: Research Intern
+  * Johns Hopkins Medicine – Institute for Cell Engineering, Baltimore, MD
+  * With an active role in study and manuscript design, conducted various experiments, and analyzed data for mechanistic studies of pathophysiology of Parkinson’s Disease. Conducted screening experiments for Circadian Rhythm controlling genes and Poly(ADP-ribose) (PAR) interactions.  
+  * Conducted experiments for novel characterization of PAR-binding proteome (PARome) to identify proteins and respective protein motifs that interact with PAR non-covalently. 
+  * Conducted experiments, computational analysis, and wrote manuscript for a study on novel mechanism identification of Cov-2 N protein’s interaction with PAR-associated degradation pathway. 
+  * Supervisor: Ted Dawson, MD, PhD. Sung-Ung Kang, MD, PhD. 
   
 Skills
 ======
@@ -56,20 +59,24 @@ Abstracts/Presentations
   
 Talks
 ======
-- New York University - NYU AI School, New York, NY 
-Invited Speaker	(Expected) 05/2023 – 06/2023 
-Invited for Speaking at NYU summer AI school sponsored by Google DeepMind. 
+- New York University - NYU AI School
+  - Invited Speaker	
+  - New York, NY 05/2023 – 06/2023 (Planned)
+  - Invited for Speaking at NYU summer AI school sponsored by Google DeepMind. 
   
 Teaching
 ======
-- Johns Hopkins University – Department of Applied Mathematics and Statistics, Baltimore, MD 
-  - Teaching Assistant – Professor: Fred Torcaso	08/2021 – 12/2021 
+- Johns Hopkins University – Department of Applied Mathematics and Statistics 
+  - Teaching Assistant – Professor: Fred Torcaso	
+  - Baltimore, MD 08/2021 – 12/2021 
   - For Undergraduate/Graduate 420/620 Probability Theory. 
-- Johns Hopkins University – Computer Science, Baltimore, MD 
-  - Teaching Assistant – Professor: Sabrina Mielke	08/2021 – 12/2021 
+- Johns Hopkins University – Computer Science 
+  - Teaching Assistant – Professor: Sabrina Mielke	
+  - Baltimore, MD 08/2021 – 12/2021 
   - For Undergraduate/Graduate 464/664 Artificial Intelligence. 
-- Johns Hopkins University Academic Support	Baltimore, MD 
-  - PILOT Leader (Peer-Led Team Learning Leader) – Supervisor: Ariane Kelly	09/2019 – 05/2021 
+- Johns Hopkins University Academic Support 
+  - PILOT Leader (Peer-Led Team Learning Leader) – Supervisor: Ariane Kelly
+  - Baltimore, MD 09/2019 – 05/2021 
   - For Undergraduate Calculus III/Organic Chemistry II.
 
   
