@@ -1,7 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Art"
+excerpt: "See my [Portfolio Website](https://karlsangwon.wixsite.com/karlsangwon)<br/><img src='/images/Marietta Gallery Exhibition 2018.jpg'>"
 collection: portfolio
 ---
 
-https://karllee0601.wixsite.com/karlsangwon
