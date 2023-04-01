@@ -52,15 +52,6 @@ Research/Work Experience
   * Presented at UCLA B.I.G. Symposium 2020. Received Research Excellence Award. 
   * Supervisor: Peter van Zijl, PhD. Xu Li, PhD.
 
-Skills
-======
-* Programming Languages
-  * Python, R, MATLAB, Mathematica
-* Laboratory
-  * General Laboratory Techniques for Organic Chemistry, Biochemistry, Cell Biology, Neuroscience (e.g. Western blot, culturing, chromatography, cloning, SDS/Native-PAGE, etc.)
-* Languages
-  * English, Korean, Spanish, Japanese
-
 Publications
 ======
 - Kim NC, **Sangwon KL**, Raz E, et al. Early Experience of Surgical Planning for STA-MCA Bypass Using Virtual Reality [published online ahead of print, 2023 Mar 9]. World Neurosurg. 2023;S1878-8750(23)00261-9. doi:10.1016/j.wneu.2023.02.113 
@@ -101,6 +92,23 @@ Teaching
   - PILOT Leader (Peer-Led Team Learning Leader) – Supervisor: Ariane Kelly
   - Baltimore, MD 09/2019 – 05/2021 
   - For Undergraduate Calculus III/Organic Chemistry II.
+
+Honors/Awards
+======
+* 2018 - Valedictorian Award (The Walker School, Marietta, GA), Georgia Certificate of Merit, Phi Beta Kappa Book Award, Georgia Governor's Honors Program Mathematics Finalist
+* 2019 - One for Two Education Foundation Scholarship Finalist (Merit-based Full Tuition Scholarship)
+* 2020 - UCLA Bruins in Genomics Research Fellowship ($6,000) & Research Excellence Award
+* 2021 - Bloomberg Distinguished Professor Summer Research Award
+* 2022 - Johns Hopkins University Departmental Honors for Neuroscience, Applied Mathematics and Statistics, Phi Beta Kappa Inductee, NYU Grossman School of Medicine Full Scholarship Award
+
+Skills
+======
+* Programming Languages
+  * Python, R, MATLAB, Mathematica
+* Laboratory
+  * General Laboratory Techniques for Organic Chemistry, Biochemistry, Cell Biology, Neuroscience (e.g. Western blot, culturing, chromatography, cloning, SDS/Native-PAGE, etc.)
+* Languages
+  * English, Korean, Spanish, Japanese
 
 Memberships/Leaderships
 ======
