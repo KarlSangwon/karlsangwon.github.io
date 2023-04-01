@@ -14,7 +14,7 @@ Education
 * B.S. in Neuroscience, Applied Mathematics, and Computational Medicine, Johns Hopkins University, 2022
 * M.D., NYU Grossman School of Medicine, 2026 (expected)
 
-Work experience
+Research/Work Experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -63,14 +63,14 @@ Invited for Speaking at NYU summer AI school sponsored by Google DeepMind.
 Teaching
 ======
 - Johns Hopkins University – Department of Applied Mathematics and Statistics, Baltimore, MD 
-Teaching Assistant – Professor: Fred Torcaso	08/2021 – 12/2021 
-For Undergraduate/Graduate 420/620 Probability Theory. 
+  - Teaching Assistant – Professor: Fred Torcaso	08/2021 – 12/2021 
+  - For Undergraduate/Graduate 420/620 Probability Theory. 
 - Johns Hopkins University – Computer Science, Baltimore, MD 
-Teaching Assistant – Professor: Sabrina Mielke	08/2021 – 12/2021 
-For Undergraduate/Graduate 464/664 Artificial Intelligence. 
+  - Teaching Assistant – Professor: Sabrina Mielke	08/2021 – 12/2021 
+  - For Undergraduate/Graduate 464/664 Artificial Intelligence. 
 - Johns Hopkins University Academic Support	Baltimore, MD 
-PILOT Leader (Peer-Led Team Learning Leader) – Supervisor: Ariane Kelly	09/2019 – 05/2021 
-For Undergraduate Calculus III/Organic Chemistry II.
+  - PILOT Leader (Peer-Led Team Learning Leader) – Supervisor: Ariane Kelly	09/2019 – 05/2021 
+  - For Undergraduate Calculus III/Organic Chemistry II.
 
   
 Membership
