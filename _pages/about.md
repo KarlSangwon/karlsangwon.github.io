@@ -35,5 +35,3 @@ Abstracts/Presentations
 
 
 
-
-<meta name="google-site-verification" content="fq1XIymQM4pfmFncpWi8gJEfhQIMGmVAIrRwJlY1Cik" />
