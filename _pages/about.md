@@ -32,3 +32,8 @@ Abstracts/Presentations
 - Stouffer KM, Xu E, **Lee KS**, et al. “Synthesizing Spatial Scales: Computational Tools for Multi-Modal Multi-Scale Neuroimage Registration and Analysis.” Accepted at Alzheimer's Association International Conference (AAIC) 2022. Accepted and Presented at BRAIN initiative 2022.   
 - **Lee S**, Zuo Y, Yang X. “Multi-omics Integration to Identify Network Perturbation of Glial Cells in Psychiatric Disorders.” Accepted and presented at UCLA Bruins in Genomics 2020 Conference, Los Angeles, CA 08/2020. Presented at Johns Hopkins Undergraduate 2020 Honors Research Symposium, Baltimore, MD 10/2020.  
 - **Lee S**. “Variant Expression and Pathway Analysis of Circadian Rhythm Dysfunction Disorder.” Presented at Johns Hopkins 2021 Computational Bio and Bioinformatics Poster Event, Baltimore, MD 05/2021.   
+
+
+
+
+<meta name="google-site-verification" content="fq1XIymQM4pfmFncpWi8gJEfhQIMGmVAIrRwJlY1Cik" />
