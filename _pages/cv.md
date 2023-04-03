@@ -98,8 +98,9 @@ Honors/Awards
 * 2018 - Valedictorian Award (The Walker School, Marietta, GA), Georgia Certificate of Merit, Phi Beta Kappa Book Award, Georgia Governor's Honors Program Mathematics Finalist
 * 2019 - One for Two Education Foundation Scholarship Finalist (Merit-based Full Tuition Scholarship)
 * 2020 - UCLA Bruins in Genomics Research Fellowship ($6,000) & Research Excellence Award
-* 2021 - Bloomberg Distinguished Professor Summer Research Award
-* 2022 - Johns Hopkins University Departmental Honors for Neuroscience, Applied Mathematics and Statistics, Phi Beta Kappa Inductee, NYU Grossman School of Medicine Full Scholarship Award
+* 2021 - Bloomberg Distinguished Professor Summer Research Award ($6,000), Johns Hopkins Life Design SOAR 2021 Summer Research Award ($3,000)
+* 2022 - Johns Hopkins University Departmental Honors for Neuroscience & Applied Mathematics and Statistics, Phi Beta Kappa Inductee, NYU Grossman School of Medicine Full Scholarship Award
+* 2023 - NREF Medical Student Summer Neurosurgery Research Fellowship Award ($2,500), NYU Grossman Summer Research Fellowship Award ($3,500)
 
 Skills
 ======
