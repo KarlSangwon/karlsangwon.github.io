@@ -126,7 +126,7 @@ Extracurricular Activites
 * **Art: See My [Portfolio](https://karlsangwon.wixsite.com/karlsangwon)**
   *  Surrealism/Abstract Painting
   *  Selected for Permanent Display 2023 at Student Lounge, NYU Grossman School of Medicine, New York, NY 
-  *  Published Art Therapy Coloring Book “Hopkins in Color,” Taylor Communications in English, Spanish, and Arabic. Distributed at the Johns Hopkins Hospital 2022.  
+  *  Published Art Therapy Coloring Book “Hopkins in Color,” *Taylor Communications* in English, Spanish, and Arabic. Distributed at the Johns Hopkins Hospital 2022.  
   *  Magyar Art Award (local art award) 2018, Marietta, GA 
   *  Marietta Chalk Festival 1st Place 2017, 2018 
   *  Featured on Magazine Cobb in Focus May/June 2018 Edition. 
