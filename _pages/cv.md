@@ -129,7 +129,7 @@ Extracurricular Activites
   *  Published Art Therapy Coloring Book “Hopkins in Color,” *Taylor Communications* in English, Spanish, and Arabic. Distributed at the Johns Hopkins Hospital 2022.  
   *  Magyar Art Award (local art award) 2018, Marietta, GA 
   *  Marietta Chalk Festival 1st Place 2017, 2018 
-  *  Featured on Magazine Cobb in Focus May/June 2018 Edition. 
+  *  Featured on Magazine *Cobb in Focus* May/June 2018 Edition. 
   *  Displayed at Rescuing Hope 2017, Atlanta, GA 
   *  Held Gallery Exhibit 2018 at Markay Gallery, Marietta, GA  
 
