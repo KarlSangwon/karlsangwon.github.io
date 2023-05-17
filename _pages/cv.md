@@ -61,10 +61,15 @@ Publications
 
 Abstracts/Presentations
 ======
-*previous name: Sangwon Lee*
+*previous name: Sangwon Lee (until 02/2023)*
+- **Sangwon KL**, et al. “Generative Artificial Intelligence Framework for Synthetic MRIs of Brain Metastases Patients” Submitted to CNS 2023.
+- **Sangwon KL**, Liu A, et al. “Predicting STA-MCA Anastomosis Patency Using FLOW800” Accepted to EANS 2023. 
 - Kim NC, **Sangwon KL**, et al. “The Impact of Sarcopenic Obesity on Perioperative Morbidity and Mechanical Complications Following Lumbar Fusion.” Accepted and presented at AANS/CNS Spine Summit 2023. 
-- **Sangwon KL**, Liu A, et al. “Predicting STA-MCA Anastomosis Patency Using FLOW800” Accepted to EANS 2023.  
 - Kim, NC. Budimlija, Z. **Sangwon KL**. et al. “Utility of Pre-flip Neuromonitoring Baselines for Posterior Decompression and Fusion for Cervical Myelopathy.” Accepted at Europe Cervical Spine Research Society 2023.  
+- Wiggan DD, Rabin-Birnbaum C, **Sangwon KL**, Nossek E. “Early Experience with Robotic Microvascular Anastomoses” Submitted to CNS 2023.
+- Alber D, **Sangwon KL**, et al. “Deep Learning-Based Image-to-Image Translation to Identify Macrophage Infiltration in High-Grade Glioma Using Label-Free Stimulated Raman Histology” Submitted to CNS 2023.
+- Alber D, Cheung A, Kurland D, **Sangwon KL**, et al. “Spine-Tuned Natural Language Models and Bespoke Regular Expression Classifiers for Automated Spinal Surgery Registry Development” Submitted to CNS 2023.
+- Lock E, Alber D, Smith A, **Sangwon KL**, et al. “The Impact of Tumor Mutational Status on Protoporphyrin IX Accumulation in Tumor-Associated Macrophages in Glioblastoma Patients” Submitted to CNS 2023.
 - **Sangwon KL**, Oermann EK. “MRImagine: Generative AI to Predict and Visualize Post-SRS ‘Future’ MRI of Brain Metastases.” Presented at AANS NYU Chapter Medical Student Research Seminar, New York, NY 12/2022.   
 - Wiggan DD, Rabin-Birnbaum C, **Sangwon, KL**, Nossek E. “Learning Curve for Vascular Anastomoses using the MUSA Microsurgical Robotic Platform.” Presented at AANS NYU Chapter Medical Student Research Seminar, New York, NY 12/2022.   
 - Stouffer KM, Xu E, **Lee KS**, et al. “Synthesizing Spatial Scales: Computational Tools for Multi-Modal Multi-Scale Neuroimage Registration and Analysis.” Accepted at Alzheimer's Association International Conference (AAIC) 2022. Accepted and Presented at BRAIN initiative 2022.   
@@ -75,8 +80,10 @@ Talks
 ======
 - New York University - NYU AI School
   - Invited Speaker	
-  - New York, NY 05/2023 – 06/2023 (Planned)
-  - Invited for Speaking at NYU summer AI school sponsored by Google DeepMind. 
+  - New York, NY 05/2023 – 06/2023
+  - Invited as a Speaker for NYU Summer AI School sponsored by Google DeepMind to talk about intersection of Medicine and AI.
+  - https://nyu-mll.github.io/nyu-ai-school-2023/
+
   
 Teaching
 ======
