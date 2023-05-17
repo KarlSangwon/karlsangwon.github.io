@@ -34,4 +34,6 @@ Talks
 - New York University - NYU AI School
   - Invited Speaker	
   - New York, NY 05/2023 – 06/2023 (Planned)
-  - Invited for Speaking at NYU summer AI school sponsored by Google DeepMind. 
+  - Invited as a Speaker for NYU Summer AI School sponsored by Google DeepMind to talk about intersection of Medicine and AI.
+  - https://nyu-mll.github.io/nyu-ai-school-2023/
+
