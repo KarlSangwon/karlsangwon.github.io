@@ -31,7 +31,7 @@ Abstracts/Presentations
   
 Talks
 ======
-![me]('/images/FullSizeRender.gif')
+![me]('~/images/FullSizeRender.gif')
 - New York University - NYU AI School
   - Invited Speaker	
   - New York, NY 06/04/2023
