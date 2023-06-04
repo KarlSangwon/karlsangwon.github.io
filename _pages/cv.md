@@ -80,7 +80,7 @@ Talks
 ======
 - New York University - NYU AI School
   - Invited Speaker	
-  - New York, NY 05/2023 – 06/2023
+  - New York, NY 06/04/2023
   - Invited as a Speaker for NYU Summer AI School sponsored by Google DeepMind to talk about intersection of Medicine and AI.
   - https://nyu-mll.github.io/nyu-ai-school-2023/
 
