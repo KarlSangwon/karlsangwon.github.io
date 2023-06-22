@@ -17,7 +17,7 @@ I'm a first-generation Korean American and also an amateur Artist. Outside of ac
 Publications
 ======
 - Kim NC, **Sangwon KL**, Raz E, et al. Early Experience of Surgical Planning for STA-MCA Bypass Using Virtual Reality [published online ahead of print, 2023 Mar 9]. World Neurosurg. 2023;S1878-8750(23)00261-9. doi:10.1016/j.wneu.2023.02.113 
-- Liu A, Suryadevara C, **Sangwon K**, et al. FLOW 800 in combination with machine learning algorithms may predict peri-operative ischemic events in patients undergoing STA-MCA bypass surgery 
+- Liu A, Suryadevara C, **Sangwon K**, et al. FLOW 800 in combination with machine learning algorithms may predict peri-operative ischemic events in patients undergoing STA-MCA bypass surgery. (under review)
 - Kang BG, Kang SU, Kim JJ, Kwon JS, Gagne JP, Lee SY, Kim S, **Sangwon KL**, et al. Proteome-wide microarray-based screening of PAR-binding proteins. bioRxiv. Published online 2022:2022.06.06.494829. doi:10.1101/2022.06.06.494829 
 - Ha S, **Sangwon KL**, Dawson VL, Dawson TM, Kang, SU. CoV-2 N protein regulates CXCL-8(IL-8) by PAR related ubiquitin degradation pathway and increases neuronal disorder markers. (under review) 
 
