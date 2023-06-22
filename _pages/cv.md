@@ -125,6 +125,7 @@ Memberships/Leaderships
   * Phi Beta Kappa
   * AANS
   * RSNA
+  * NYUGSOM Medical Innovation and Entrepreneurship Club
 * Treasurer & Co-leader, AANS NYU School of Medicine Student Chapter (2022-Present)
 * Co-Chair, Johns Hopkins Hospital Art Cart Organization (2018-2022)
 
