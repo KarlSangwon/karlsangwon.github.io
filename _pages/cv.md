@@ -18,9 +18,9 @@ Research/Work Experience
 ======
 * 10/2022 – Present: Medical Student Researcher
   * NYU Langone Health – OLAB, New York, NY
-  * Initiated and leading a flagship project with diffusion model application for prediction of brain metastases post-SRS. 
-  * Collaboration with other neurosurgeons to solve clinical problems using data science. With Dr. Erez Nossek, a cerebrovascular neurosurgeon, I performed the main analysis of the role of Virtual Reality devices on anastomosis surgery planning and assisted Flow800/Machine Learning projects. Leading a project on Flow800 intraoperative hemodynamic parameter metrics to predict post-anastomosis patency. With Dr. Derryl Lau and his spine surgery team, I have served as the data scientist on studies investigating role of neuromonitoring data on spine surgery outcomes as well as several clinical outcome projects. 
-  * Supervisor: Eric Oermann, MD. Douglas Kondziolka, MD.
+  * Initiated and leading a flagship project with diffusion model application for prediction of brain metastases post-SRS, awarded National Neurosurgery NREF 2023 Fellowship.
+  * Collaborated with other neurosurgeons to solve clinical problems using data science. With Dr. Erez Nossek, a cerebrovascular neurosurgeon, I performed the main analysis of the role of Virtual Reality devices on anastomosis surgery planning and assisted Flow800/Machine Learning projects. Led a project on Flow800 intraoperative hemodynamic parameter metrics to predict post-anastomosis patency. With Dr. Derryl Lau and his spine surgery team, I have served as the data scientist on studies investigating role of neuromonitoring data on spine surgery outcomes as well as several clinical outcome projects. 
+  * Supervisor: Eric Oermann, MD. Douglas Kondziolka, MD. Erez Nossek, MD.
 
 * 02/2019 – 05/2022: Research Intern
   * Johns Hopkins Medicine – Institute for Cell Engineering, Baltimore, MD
