@@ -7,7 +7,7 @@ author_profile: true
 
 Publications
 ======
-- **Sangwon KL**, Esparza R, et al. Endoscopic Endonasal Approach for Direct Puncture Embolization of Cavernous Dural Arteriovenous Fistula: 2-Dimensional Operative Video. Operative Neurosurgery ():10.1227/ons.0000000000000947, October 12, 2023. | DOI: 10.1227/ons.0000000000000947 
+- **Sangwon KL**, Esparza R, et al. Endoscopic Endonasal Approach for Direct Puncture Embolization of Cavernous Dural Arteriovenous Fistula: 2-Dimensional Operative Video. Operative Neurosurgery. DOI: 10.1227/ons.0000000000000947 
 - Kim NC, **Sangwon KL**, Raz E, Shapiro M, Rutledge C, Nelson PK, Riina HA, Nossek E. Early Experience of Surgical Planning for STA-MCA Bypass Using Virtual Reality. World Neurosurg. 2023 Jun;174:e44-e52. doi: 10.1016/j.wneu.2023.02.113. Epub 2023 Mar 9. PMID: 36906090.
 - Liu A, Suryadevara C, **Sangwon KL**, et al. FLOW 800 in combination with machine learning algorithms may predict peri-operative ischemic events in patients undergoing STA-MCA bypass surgery. (under review)
 - Kang BG, Kang SU, Kim JJ, Kwon JS, Gagne JP, Lee SY, Kim S, **Sangwon KL**, et al. Proteome-wide microarray-based screening of PAR-binding proteins. bioRxiv. Published online 2022:2022.06.06.494829. doi:10.1101/2022.06.06.494829 
