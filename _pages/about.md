@@ -16,6 +16,8 @@ I'm a first-generation Korean American and also an amateur Artist. Outside of ac
 
 Publications
 ======
+- *von Oiste GG, ***Sangwon KL**, et al. Utilization of Carotid Web Angioarchitecture for Stroke Risk Assessment. (Accepted, World Neurosurgery)
+    - *Equal contribution
 - **Sangwon KL**, Esparza R, et al. Endoscopic Endonasal Approach for Direct Puncture Embolization of Cavernous Dural Arteriovenous Fistula: 2-Dimensional Operative Video. Operative Neurosurgery. DOI: 10.1227/ons.0000000000000947 
 - Kim NC, **Sangwon KL**, Raz E, Shapiro M, Rutledge C, Nelson PK, Riina HA, Nossek E. Early Experience of Surgical Planning for STA-MCA Bypass Using Virtual Reality. World Neurosurg. 2023 Jun;174:e44-e52. doi: 10.1016/j.wneu.2023.02.113. Epub 2023 Mar 9. PMID: 36906090.
 - Liu A, Suryadevara C, **Sangwon KL**, et al. FLOW 800 in combination with machine learning algorithms may predict peri-operative ischemic events in patients undergoing STA-MCA bypass surgery. (under review)
