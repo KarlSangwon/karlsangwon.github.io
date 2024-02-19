@@ -55,7 +55,7 @@ Research/Work Experience
 Publications
 ======
 - **Sangwon KL**, Nguyen MK, Wiggan DD, et al. Assessing STA-MCA Anastomosis Patency Using FLOW 800 Hemodynamics. (under review)
-- Wiggan DD, Rabin-Birnbaum C, **Sangwon KL**, et al. Learning Curve of Robotic End-to-Side Microanastomoses. (Accepted, Operative Neurosurgery)
+- Rabin-Birnbaum C, Wiggan DD, **Sangwon KL**, et al. Learning Curve of Robotic End-to-Side Microanastomoses. (Accepted, Operative Neurosurgery)
 - *von Oiste GG, ***Sangwon KL**, et al. Utilization of Carotid Web Angioarchitecture for Stroke Risk Assessment. World Neurosurg. 2023 Nov; doi:10.1016/j.wneu.2023.11.091
     - *Equal contribution, co-First Author
 - Alber D, Lock E, **Sangwon K**, et al. Tmic-84. A deep learning-based method for rapid, patient-specific assay of macrophage infiltration in high-grade glioma using label-free stimulated Raman histology. Neuro Oncol. 2023;25(Supplement_5):v297-v297. doi:10.1093/neuonc/noad179.1149
