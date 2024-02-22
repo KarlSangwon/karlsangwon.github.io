@@ -42,8 +42,8 @@ Private Hospitals in New York City" Accepted at AANS 2024
 Talks
 ======
 ![image](/images/FullSizeRender-1.GIF)
-- New York University - NYU AI School
-  - Invited Speaker	
+- New York University - [NYU AI School](https://nyu-mll.github.io/nyu-ai-school-2023/)
+  - [Invited Speaker](https://nyu-mll.github.io/nyu-ai-school-2023/speakers/)
   - New York, NY 06/04/2023
   - Invited as a Speaker for NYU Summer AI School sponsored by Google DeepMind to talk about intersection of Medicine and AI.
   - https://nyu-mll.github.io/nyu-ai-school-2023/
