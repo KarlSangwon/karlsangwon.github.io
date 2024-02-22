@@ -23,7 +23,7 @@ Research/Work Experience
 Private Hospitals in NYC. 
   * Supervisor: Eric Oermann, MD. Douglas Kondziolka, MD.
 
-*10/2022 - Present: Medical Student Researcher
+* 10/2022 - Present: Medical Student Researcher
   * NYU Langone Health – Carotid Web Lab, New York, NY
   * Devised a novel protocol to extract geometric features from sagittal CTA of Carotid Web (CW) and predict stroke risk of asymptomatic CWs.
   * Leading a project on using FLOW800 hemodynamics to predict post-anastomosis patency failure risk using intra-op data. Assisted other FLOW800/Machine Learning projects.
