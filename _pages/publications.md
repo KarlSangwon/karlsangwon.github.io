@@ -21,9 +21,9 @@ Publications
 Abstracts/Presentations
 ======
 *previous name: Sangwon Lee (until 02/2023)*
-- **Sangwon KL**, et al. "Comparison of Patient Insurance Status and Case Severity for Neurosurgery Patients in Public and
+- Orillac C, **Sangwon KL**, et al. "Comparison of Patient Insurance Status and Case Severity for Neurosurgery Patients in Public and
 Private Hospitals in New York City" Accepted at AANS 2024
-- **Sangwon KL**, et al. "Evaluating Efficiency of Care: Comparison of Length of Stay for Neurosurgery Patients in Public and
+- Orillac C, **Sangwon KL**, et al. "Evaluating Efficiency of Care: Comparison of Length of Stay for Neurosurgery Patients in Public and
 Private Hospitals in New York City" Accepted at AANS 2024
 - **Sangwon KL**, et al. “Generative Artificial Intelligence Framework for Synthetic MRIs of Brain Metastases Patients” Accepted/Presented at CNS 2023.
 - **Sangwon KL**, et al. “Predicting STA-MCA Anastomosis Patency Using FLOW800” Accepted/Presented at CNS 2023, EANS 2023, SNIS 2023 
