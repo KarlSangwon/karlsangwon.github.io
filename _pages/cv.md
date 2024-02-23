@@ -160,7 +160,7 @@ Extracurricular Activites
   *  Held Gallery Exhibit 2018 at Markay Gallery, Marietta, GA  
 
 * Music
-  * Guitarist for Medical School Band 'Atrial Flutter'
+  * Guitarist for a casual medical student band 'Atrial Flutter'
 
 * Volunteering
   * Co-Chair – Johns Hopkins Hospital Art Cart Organization, 
