@@ -124,7 +124,7 @@ Honors/Awards
 * 2020 - UCLA Bruins in Genomics Research Fellowship (\\$6,000) & Research Excellence Award
 * 2021 - Bloomberg Distinguished Professor Summer Research Award (\\$6,000), Johns Hopkins Life Design SOAR 2021 Summer Research Award (\\$3,000)
 * 2022 - Johns Hopkins University Departmental Honors for Neuroscience & Applied Mathematics and Statistics, Phi Beta Kappa Inductee, NYU Grossman School of Medicine Full Scholarship Award
-* 2018-2022 – Krieger School of Arts and Sciences & Whitening School of Engineering Dean’s List (8/8 Semesters)
+* 2018-2022 – Krieger School of Arts and Sciences & Whitening School of Engineering Dean’s List (All Semesters)
 * 2023 - [NREF Medical Student Summer Neurosurgery Research Fellowship Award](https://www.newswise.com/articles/nref-awards-2023-medical-student-summer-research-fellowships) (\\$2,500), NYU Grossman Summer Research Fellowship Award (\\$3,500)
 
 Skills
