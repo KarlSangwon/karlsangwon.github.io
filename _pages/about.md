@@ -17,7 +17,7 @@ Outside of academics I have a wide array of art and cultural interests - I have 
 
 Publications
 ======
-- **Sangwon KL**, Nguyen MK, Wiggan DD, et al. Assessing STA-MCA Anastomosis Patency Using FLOW 800 Hemodynamics. (under review)
+- **Sangwon KL**, Nguyen MK, Wiggan DD, et al. Assessing STA-MCA Anastomosis Patency Using FLOW 800 Hemodynamics. (Accepted, Journal of Neurosurgery)
 - Rabin-Birnbaum C, Wiggan DD, **Sangwon KL**, et al. Learning Curve of Robotic End-to-Side Microanastomoses. (Accepted, Operative Neurosurgery)
 - *von Oiste GG, ***Sangwon KL**, et al. Utilization of Carotid Web Angioarchitecture for Stroke Risk Assessment. World Neurosurg. 2023 Nov; doi:10.1016/j.wneu.2023.11.091
     - *Equal contribution, co-First Author
