@@ -168,7 +168,9 @@ Extracurricular Activites
 ======
 * **Art: See My [Portfolio](https://karlsangwon.wixsite.com/karlsangwon)**
   *  Surrealism/Abstract Painting
-  *  Featured on NYUGSOM's Spring 2024 Edition Agora: The Arts and Literature Magazine
+  *  Selected for Cover Art of 2023-2024 Agora Print Magazine
+  *  Featured on NYUGSOM 2024 Art House.
+  *  Featured on NYUGSOM’s Spring 2024 Edition Agora: The Arts and Literature Magazine [Link](https://www.agoramagazine.org/karl-sangwon-literature)
   *  Selected for Permanent Display 2023 at Student Lounge, NYU Grossman School of Medicine, New York, NY 
   *  Published Art Therapy Coloring Book “Hopkins in Color,” *Taylor Communications* in English, Spanish, and Arabic. Distributed at the Johns Hopkins Hospital 2022.  
   *  Magyar Art Award (local art award) 2018, Marietta, GA 
