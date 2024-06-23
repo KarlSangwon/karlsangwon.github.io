@@ -7,8 +7,11 @@ author_profile: true
 
 Publications
 ======
-- **Sangwon KL**, Nguyen MK, Wiggan DD, et al. Assessing STA-MCA Anastomosis Patency Using FLOW 800 Hemodynamics. (Accepted, Journal of Neurosurgery)
-- Rabin-Birnbaum C, Wiggan DD, **Sangwon KL**, et al. Learning Curve of Robotic End-to-Side Microanastomoses. (Accepted, Operative Neurosurgery)
+- **Sangwon KL**, Nguyen MK, Wiggan DD, et al. Assessing STA-MCA Anastomosis Patency Using FLOW 800 Hemodynamics. (Accepted and In Production, Journal of Neurosurgery) 
+- Rabin-Birnbaum C, Wiggan DD, **Sangwon KL**, et al. Learning Curve of Robotic End-to-Side Microanastomoses. Oper Neurosurg. 2024 May
+- Anonymous Authors (including **Sangwon KL**), et al. Language Models Can Guess Your Identities from De-identified Clinical Notes. Journal of Machine Learning Research. 2024. Pre-print.
+- Alyakin A, Kurland D, Alber D, **Sangwon KL**, et al. CNS-CLIP: Transforming a Neurosurgical Journal into a Multimodal Medical Model. (Revision under review, Neurosurgery)
+- Alber D, Yang Z, (including **Sangwon KL**) et. al Medical large language models are vulnerable to attack (Revision under review, Nature)
 - *von Oiste GG, ***Sangwon KL**, et al. Utilization of Carotid Web Angioarchitecture for Stroke Risk Assessment. World Neurosurg. 2023 Nov; doi:10.1016/j.wneu.2023.11.091
     - *Equal contribution, co-First Author
 - Alber D, Lock E, **Sangwon K**, et al. Tmic-84. A deep learning-based method for rapid, patient-specific assay of macrophage infiltration in high-grade glioma using label-free stimulated Raman histology. Neuro Oncol. 2023;25(Supplement_5):v297-v297. doi:10.1093/neuonc/noad179.1149
@@ -21,6 +24,16 @@ Publications
 Abstracts/Presentations
 ======
 *previous name: Sangwon Lee (until 02/2023)*
+
+- **Sangwon KL**, et al. “Clinical Auto-referral Pipeline for Patients with Radiologically Identified Spinal Metastasis Using Natural Language Processing,” 
+- **Sangwon KL**, et al. “Intraoperative Venous Outflow Assessments During Obliteration of Dural Arteriovenous Fistula Using Hemodynamic Changes of FLOW800 Technology”
+- **Sangwon KL**, et al. “A Generalizable Pipeline For Building An Extensive Domain-Specific Dataset From A Medical Journal - Neurosurgery Edition”
+- **Sangwon KL**, et al. “Intraoperative Anastomotic Flow Measurements During STA-MCA Bypass Using FLOW800 Hemodynamics”
+- **Sangwon KL**, et al. “Seven Decades Of Change: Tracing The Evolution Of Neurosurgery Through Lexical Analysis Of Neurosurgery Publications Of The CNS (1955-2024)”
+- Bounajem MT, (Including **Sangwon KL**), et al. “Outcomes After Endarterectomy Versus Stenting For Treatment Of Symptomatic Carotid Artery Web”
+- Wiggan D, Negash B, **Sangwon KL**, et al. “Running Versus Interrupted Sutures for STA-MCA Bypass: Flow and Anastomotic Maturity on Follow-Up Imaging”
+- Negash B, Wiggan D, **Sangwon KL**, et al. “Carotid Web Angioarchitecture Based Risk Stratification Assessment May Accurately Determine Low Stroke Risk and Aid in Surgical Patient Selection”
+- Grin E, Negash B, Wiggan D, **Sangwon KL**, et al. “Atypical Carotid Webs: An Elusive Etiology of Acute Stroke”
 - Bounajem, MT. Liang A. **Sangwon KL**. et al. "Carotid artery stenting and endarterectomy for treatment of symptomatic carotid web: a multi-institutional series." Accepted at SNIS 2024.
 - Kim, NC. Budimlija, Z. **Sangwon KL**. et al. “Utility of Pre-flip Intraoperative Neurophysiologic Monitoring Baselines for Posterior Decompression and Fusion for Cervical Spondylotic Myelopathy.” Accepted/Presented at AANS 2024, IMAST 2024, DSPN Spine Summit 2024 - Best Presentation Award.
 - Kim NC, **Sangwon KL**, et al. “The Impact of Sarcopenic Obesity on Adjacent Segment Disease and Mechanical Complications Following Degenerative Lumbar Fusion.” Accepted/presented at DSPN Spine Summit 2024. 
@@ -40,7 +53,7 @@ Private Hospitals in New York City" Accepted/Presented at AANS 2024
 - Wiggan DD, Rabin-Birnbaum C, **Sangwon, KL**, Nossek E. “Learning Curve for Vascular Anastomoses using the MUSA Microsurgical Robotic Platform.” Presented at AANS NYU Chapter Medical Student Research Seminar, New York, NY 12/2022.   
 - Stouffer KM, Xu E, **Lee KS**, et al. “Synthesizing Spatial Scales: Computational Tools for Multi-Modal Multi-Scale Neuroimage Registration and Analysis.” Accepted at Alzheimer's Association International Conference (AAIC) 2022. Accepted/Presented at International BRAIN initiative 2022.   
 - **Lee S**, Zuo Y, Yang X. “Multi-omics Integration to Identify Network Perturbation of Glial Cells in Psychiatric Disorders.” Accepted and presented at UCLA Bruins in Genomics 2020 Conference, Los Angeles, CA 08/2020. Presented at Johns Hopkins Undergraduate 2020 Honors Research Symposium, Baltimore, MD 10/2020.  
-- **Lee S**. “Variant Expression and Pathway Analysis of Circadian Rhythm Dysfunction Disorder.” Presented at Johns Hopkins 2021 Computational Bio and Bioinformatics Poster Event, Baltimore, MD 05/2021.   
+- **Lee S**. “Variant Expression and Pathway Analysis of Circadian Rhythm Dysfunction Disorder.” Presented at Johns Hopkins 2021 Computational Bio and Bioinformatics Poster Event, Baltimore, MD 05/2021.    
   
 Talks
 ======
