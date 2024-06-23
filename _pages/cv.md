@@ -18,46 +18,43 @@ Research/Work Experience
 ======
 * 10/2022 – Present: Medical Student Researcher
   * NYU Langone Health – OLAB, New York, NY
-  * Initiated and led a flagship project with diffusion model application for prediction of brain metastases post-SRS, awarded National Neurosurgery NREF 2023 Fellowship. Project was accepted and presented at 2023 Congress of Neurological Surgery National Conference.
-  * Collaborated with other neurosurgeons to solve clinical problems using data science. With Dr. Erez Nossek, a cerebrovascular neurosurgeon, I performed the main analysis of the role of Virtual Reality devices on anastomosis surgery planning. With Dr. Derryl Lau and his spine surgery team, I have served as the data scientist on studies investigating role of neuromonitoring data on spine surgery outcomes as well as several clinical outcome projects. With Dr. Harter, I served as the data scientist on studies investigating neurosurgical outcomes of patients in Public and
-Private Hospitals in NYC. 
+  * Initiated and led a flagship project with diffusion model application for prediction of brain metastases post-SRS, awarded National Neurosurgery NREF 2023 Fellowship.
+  * Served as the main data scientist in the research team for other neurosurgeons to solve clinical problems using data science: ranging from: VR for anastomotic surgical planning (Erez Nossek), role of neuromonitoring data on spine surgery outcomes (Darryl Lau), demographics and outcomes research (David Harter), bibliometrics of neurosurgical journal (Douglas Kondziolka).
+  * Initiated and currently leading a prospective clinical trial based on a project where I designed an auto-referral pipeline of skeletal metastasis using natural language processing. 
   * Supervisor: Eric Oermann, MD. Douglas Kondziolka, MD.
 
 * 10/2022 - Present: Medical Student Researcher
   * NYU Langone Health – Department of Cerebrovascular Neurosurgery, New York, NY
   * Devised a novel protocol to extract geometric features from sagittal CTA of Carotid Web (CW) and predict stroke risk of asymptomatic CWs.
-  * Demonstrated that FLOW800 hemodynamics can predict post-anastomosis patency failure risk using intra-op data. Led/coordinated other FLOW800/Machine Learning projects.
-  * Presented and pitched to Carl Zeiss microscope company, we were the first and only institution to be given a dedicated research-machine for scalable FLOW800 hemodynamics analysis.
+  * esigned and led a project on using FLOW800 hemodynamics to predict post-anastomosis patency failure risk using intra-op data. Assisted numerous other FLOW800/Machine Learning projects.
+  * Presented and made a pitch to Zeiss Microscope company, became one of the two institutions in the US to receive a dedicated research-machine for scalable FLOW800 hemodynamics analysis.
   * Supervisor: Erez Nossek, MD.
 
 * 02/2019 – 05/2022: Research Intern
   * Johns Hopkins Medicine – Institute for Cell Engineering, Baltimore, MD
-  * With an active role in study and manuscript design, conducted various experiments, and analyzed data for mechanistic studies of pathophysiology of Parkinson’s Disease. Conducted screening experiments for Circadian Rhythm controlling genes and Poly(ADP-ribose) (PAR) interactions.  
-  * Conducted experiments for novel characterization of PAR-binding proteome (PARome) to identify proteins and respective protein motifs that interact with PAR non-covalently. 
-  * Conducted experiments, computational analysis, and wrote manuscript for a study on novel mechanism identification of Cov-2 N protein’s interaction with PAR-associated degradation pathway. 
+  * Active role in study, manuscript design; conducted & analyzed experimental data for mechanistic studies of pathophysiology of Parkinson’s Disease. 
+  * Other projects of significant participation include: screening experiments for Circadian Rhythm controlling genes and Poly(ADP-ribose) (PAR) interactions; novel characterization of PAR-binding proteome (PARome) and new protein motifs; Cov-2 N protein’s interaction with PAR-associated degradation pathway
   * Supervisor: Ted Dawson, MD, PhD. Sung-Ung Kang, MD, PhD. 
 
 * 06/2021 – 08/2021: Research Intern
   * Johns Hopkins Medicine – Department of Internal Medicine, Baltimore, MD
-  * Collaborating with Mayo Clinic, contributed to designing of a novel mathematical approach to solve a medical term binding problem in medical ontologies, such as SNOMED-CT, using a new concept of proxy individuals and existential elimination from relational logic and improve semantic consistency of medical coding systems. 
+* Collaborating with Mayo Clinic, contributed to designing of a novel mathematical approach to solve a medical term binding problem in medical ontologies using proxy individuals and existential elimination from relational logic and improve semantic consistency of medical coding systems.
   * Supervisor: Chris Chute, MD, PhD. Harold Solbrig
 
 * 12/2020 – 05/2021: Research Intern
   * Johns Hopkins University – Biomedical Engineering, Baltimore, MD
-  * Trained and optimized a U-net to perform semantic segmentation and annotation of Tau particles in histology data of Alzheimer’s Disease Patients as a part of BIOCARD project to help with multi-modal analysis across histology and MRI data framework. 
-  * Designed a novel script in ImageJ using Jython to fully automate data processing pipeline of Carl Zeiss Image (.czi) files of brain histology. 
+  * Trained and optimized a U-net to perform semantic segmentation and annotation of Tau particles in histology data of Alzheimer’s Disease Patients as a part of BIOCARD project to help with multi-modal analysis across histology and MRI data framework.
+  * Designed a novel script in ImageJ using Jython to fully automate data processing pipeline of Carl Zeiss Image (.czi) files of brain histology.
   * Supervisor: Michael Miller, PhD. Daniel Tward, PhD. 
 
 * 05/2020 – 08/2020: Computational Genomic Analyst / Research Intern
   * UCLA – Institute for Quantitative & Computational Biosciences, Los Angeles, CA
-  * Conducted Multi-omic level analysis to identify network perturbation of Glial Cells in psychiatric disorders. Generated rich data of novel gene modules for future mechanistic, therapeutic studies. Summer project funded by NIH Educational Grant 5R25MH109172-05.
-  * Presented at UCLA B.I.G. Symposium 2020. Received Research Excellence Award. 
+  * Conducted Multi-omic level analysis to identify network perturbation of Glial Cells in psychiatric disorders, identifying candidate novel gene modules for future mechanistic, therapeutic studies. Funded by NIH Educational Grant 5R25MH109172-05. Received Research Excellence Award at UCLA B.I.G. Symposium 2020
   * Supervisor: Xia Yang, PhD. Yanning Zuo. 
 
 * 08/2018 – 02/2019: Research Intern
   * F.M. Kirby Research Center for Functional Brain Imaging, Baltimore, MD
   * Developed a 3D kernel Convolutional Neural Network pipeline for detection of Cerebral Microbleeds using novel Quantitative Susceptibility Mapping (QSM) MRI dataset.
-  * Presented at UCLA B.I.G. Symposium 2020. Received Research Excellence Award. 
   * Supervisor: Peter van Zijl, PhD. Xu Li, PhD.
 
 Publications
@@ -151,7 +148,7 @@ Skills
 * Laboratory
   * General Laboratory Techniques for Organic Chemistry, Biochemistry, Cell Biology, Neuroscience (e.g. Western blot, culturing, chromatography, cloning, SDS/Native-PAGE, etc.)
 * Languages
-  * English, Korean, Spanish, Japanese
+  * Native - English, Korean | Fluent - Spanish, Japanese
 
 Memberships/Leaderships
 ======
