@@ -79,6 +79,16 @@ Publications
 Abstracts/Presentations
 ======
 *previous name: Sangwon Lee (until 02/2023)*
+
+- **Sangwon KL**, et al. “Clinical Auto-referral Pipeline for Patients with Radiologically Identified Spinal Metastasis Using Natural Language Processing,” 
+- **Sangwon KL**, et al. “Intraoperative Venous Outflow Assessments During Obliteration of Dural Arteriovenous Fistula Using Hemodynamic Changes of FLOW800 Technology”
+- **Sangwon KL**, et al. “A Generalizable Pipeline For Building An Extensive Domain-Specific Dataset From A Medical Journal - Neurosurgery Edition”
+- **Sangwon KL**, et al. “Intraoperative Anastomotic Flow Measurements During STA-MCA Bypass Using FLOW800 Hemodynamics”
+- **Sangwon KL**, et al. “Seven Decades Of Change: Tracing The Evolution Of Neurosurgery Through Lexical Analysis Of Neurosurgery Publications Of The CNS (1955-2024)”
+- Bounajem MT, (Including **Sangwon KL**), et al. “Outcomes After Endarterectomy Versus Stenting For Treatment Of Symptomatic Carotid Artery Web”
+- Wiggan D, Negash B, **Sangwon KL**, et al. “Running Versus Interrupted Sutures for STA-MCA Bypass: Flow and Anastomotic Maturity on Follow-Up Imaging”
+- Negash B, Wiggan D, **Sangwon KL**, et al. “Carotid Web Angioarchitecture Based Risk Stratification Assessment May Accurately Determine Low Stroke Risk and Aid in Surgical Patient Selection”
+- Grin E, Negash B, Wiggan D, **Sangwon KL**, et al. “Atypical Carotid Webs: An Elusive Etiology of Acute Stroke”
 - Bounajem, MT. Liang A. **Sangwon KL**. et al. "Carotid artery stenting and endarterectomy for treatment of symptomatic carotid web: a multi-institutional series." Accepted at SNIS 2024.
 - Kim, NC. Budimlija, Z. **Sangwon KL**. et al. “Utility of Pre-flip Intraoperative Neurophysiologic Monitoring Baselines for Posterior Decompression and Fusion for Cervical Spondylotic Myelopathy.” Accepted/Presented at AANS 2024, IMAST 2024, DSPN Spine Summit 2024 - Best Presentation Award.
 - Kim NC, **Sangwon KL**, et al. “The Impact of Sarcopenic Obesity on Adjacent Segment Disease and Mechanical Complications Following Degenerative Lumbar Fusion.” Accepted/presented at DSPN Spine Summit 2024. 
