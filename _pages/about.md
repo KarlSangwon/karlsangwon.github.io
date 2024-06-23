@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Karl L. Sangwon. I'm currently a **Medical Student at NYU Grossman School of Medicine**, who has interest in Computational Medicine research and entrepreneurship. My main interest lies in augmenting modern *Art of Medicine* using advanced technologies, to create a more 21-century-like 'cyberpunk' medical paradigm that fits my vision. It is my passionate vision to expand, represent, and clinically re-define our traditional definitions as well as approaches toward ‘diseases and disorders’ in a more mathematical, computable, and surgical manner.
+My name is Karl L. Sangwon. I'm currently a **Medical Student at NYU Grossman School of Medicine**, who has interest in Computational Medicine research and entrepreneurships for Neurosurgery. My main interest lies in augmenting modern *Art of Medicine* using advanced technologies, to create a more 21-century-like 'cyberpunk' medical paradigm that fits my vision. It is my passionate vision to expand, represent, and clinically re-define our traditional definitions as well as approaches toward ‘diseases and disorders’ in a more mathematical, computable, and surgical manner.
 
 I received my B.S. in Neuroscience, Applied Mathematics and Statistics, and Computation Medicine at Johns Hopkins University in 2022, where I spent most of my time doing neurodegeneration, multi-omics computational genomics, radiomics research.
 
