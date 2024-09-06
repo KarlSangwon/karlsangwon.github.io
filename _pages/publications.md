@@ -8,7 +8,7 @@ author_profile: true
 Publications
 ======
 - **Sangwon KL,** Nguyen M, Wiggan DD, et al. Assessing superficial temporal artery–middle cerebral artery anastomosis patency using FLOW 800 hemodynamics. J Neurosurg. 2024;1(aop):1-10. doi:10.3171/2024.4.jns24713
-Rabbin-Birnbaum C, Wiggan DD, **Sangwon KL**, et al. Learning curve of robotic end-to-side microanastomoses. Oper Neurosurg (Hagerstown). Published online 2024. doi:10.1227/ons.0000000000001187
+- Rabbin-Birnbaum C, Wiggan DD, **Sangwon KL**, et al. Learning curve of robotic end-to-side microanastomoses. Oper Neurosurg (Hagerstown). Published online 2024. doi:10.1227/ons.0000000000001187
 - Anonymous Authors (including **Sangwon KL**), et al. Language Models Can Guess Your Identities from De-identified Clinical Notes. Journal of Machine Learning Research. 2024. Pre-print.
 - Alyakin A, Kurland D, Alber D, **Sangwon KL**, et al. CNS-CLIP: Transforming a Neurosurgical Journal into a Multimodal Medical Model. (Revision under review, Neurosurgery)
 - Alber D, Yang Z, (including **Sangwon KL**) et. al Medical large language models are vulnerable to attack (Revision under review, Nature)
