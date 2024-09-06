@@ -7,13 +7,13 @@ author_profile: true
 
 Publications
 ======
-- **Sangwon KL**, Nguyen MK, Wiggan DD, et al. Assessing STA-MCA Anastomosis Patency Using FLOW 800 Hemodynamics. (Accepted and In Production, Journal of Neurosurgery) 
-- Rabin-Birnbaum C, Wiggan DD, **Sangwon KL**, et al. Learning Curve of Robotic End-to-Side Microanastomoses. Oper Neurosurg. 2024 May
+- **Sangwon KL,** Nguyen M, Wiggan DD, et al. Assessing superficial temporal artery–middle cerebral artery anastomosis patency using FLOW 800 hemodynamics. J Neurosurg. 2024;1(aop):1-10. doi:10.3171/2024.4.jns24713
+Rabbin-Birnbaum C, Wiggan DD, **Sangwon KL**, et al. Learning curve of robotic end-to-side microanastomoses. Oper Neurosurg (Hagerstown). Published online 2024. doi:10.1227/ons.0000000000001187
 - Anonymous Authors (including **Sangwon KL**), et al. Language Models Can Guess Your Identities from De-identified Clinical Notes. Journal of Machine Learning Research. 2024. Pre-print.
 - Alyakin A, Kurland D, Alber D, **Sangwon KL**, et al. CNS-CLIP: Transforming a Neurosurgical Journal into a Multimodal Medical Model. (Revision under review, Neurosurgery)
 - Alber D, Yang Z, (including **Sangwon KL**) et. al Medical large language models are vulnerable to attack (Revision under review, Nature)
 - *von Oiste GG, ***Sangwon KL**, et al. Utilization of Carotid Web Angioarchitecture for Stroke Risk Assessment. World Neurosurg. 2023 Nov; doi:10.1016/j.wneu.2023.11.091
-    - *Equal contribution, co-First Author
+    - *Equal contribution, **co-First Author**
 - Alber D, Lock E, **Sangwon K**, et al. Tmic-84. A deep learning-based method for rapid, patient-specific assay of macrophage infiltration in high-grade glioma using label-free stimulated Raman histology. Neuro Oncol. 2023;25(Supplement_5):v297-v297. doi:10.1093/neuonc/noad179.1149
 - **Sangwon KL**, Esparza R, et al. Endoscopic Endonasal Approach for Direct Puncture Embolization of Cavernous Dural Arteriovenous Fistula: 2-Dimensional Operative Video. Operative Neurosurgery. DOI: 10.1227/ons.0000000000000947 
 - Kim NC, **Sangwon KL**, Raz E, Shapiro M, Rutledge C, Nelson PK, Riina HA, Nossek E. Early Experience of Surgical Planning for STA-MCA Bypass Using Virtual Reality. World Neurosurg. 2023 Jun;174:e44-e52. doi: 10.1016/j.wneu.2023.02.113. Epub 2023 Mar 9. PMID: 36906090.
@@ -25,15 +25,15 @@ Abstracts/Presentations
 ======
 *previous name: Sangwon Lee (until 02/2023)*
 
-- **Sangwon KL**, et al. “Clinical Auto-referral Pipeline for Patients with Radiologically Identified Spinal Metastasis Using Natural Language Processing,” 
-- **Sangwon KL**, et al. “Intraoperative Venous Outflow Assessments During Obliteration of Dural Arteriovenous Fistula Using Hemodynamic Changes of FLOW800 Technology”
-- **Sangwon KL**, et al. “A Generalizable Pipeline For Building An Extensive Domain-Specific Dataset From A Medical Journal - Neurosurgery Edition”
-- **Sangwon KL**, et al. “Intraoperative Anastomotic Flow Measurements During STA-MCA Bypass Using FLOW800 Hemodynamics”
-- **Sangwon KL**, et al. “Seven Decades Of Change: Tracing The Evolution Of Neurosurgery Through Lexical Analysis Of Neurosurgery Publications Of The CNS (1955-2024)”
-- Bounajem MT, (Including **Sangwon KL**), et al. “Outcomes After Endarterectomy Versus Stenting For Treatment Of Symptomatic Carotid Artery Web”
-- Wiggan D, Negash B, **Sangwon KL**, et al. “Running Versus Interrupted Sutures for STA-MCA Bypass: Flow and Anastomotic Maturity on Follow-Up Imaging”
-- Negash B, Wiggan D, **Sangwon KL**, et al. “Carotid Web Angioarchitecture Based Risk Stratification Assessment May Accurately Determine Low Stroke Risk and Aid in Surgical Patient Selection”
-- Grin E, Negash B, Wiggan D, **Sangwon KL**, et al. “Atypical Carotid Webs: An Elusive Etiology of Acute Stroke”
+- **Sangwon KL**, et al. “Clinical Auto-referral Pipeline for Patients with Radiologically Identified Spinal Metastasis Using Natural Language Processing” Accepted and presented at CNS 2024.
+- **Sangwon KL**, et al. “Intraoperative Venous Outflow Assessments During Obliteration of Dural Arteriovenous Fistula Using Hemodynamic Changes of FLOW800 Technology” Accepted and presented at CNS 2024.
+- **Sangwon KL**, et al. “A Generalizable Pipeline For Building An Extensive Domain-Specific Dataset From A Medical Journal - Neurosurgery Edition” Accepted and presented at CNS 2024.
+- **Sangwon KL**, et al. “Intraoperative Anastomotic Flow Measurements During STA-MCA Bypass Using FLOW800 Hemodynamics” Accepted and presented at CNS 2024.
+- **Sangwon KL**, et al. “Seven Decades Of Change: Tracing The Evolution Of Neurosurgery Through Lexical Analysis Of Neurosurgery Publications Of The CNS (1955-2024)” Accepted and presented at CNS 2024.
+- Bounajem MT, (Including **Sangwon KL**), et al. “Outcomes After Endarterectomy Versus Stenting For Treatment Of Symptomatic Carotid Artery Web” Accepted and presented at CNS 2024.
+- Wiggan D, Negash B, **Sangwon KL**, et al. “Running Versus Interrupted Sutures for STA-MCA Bypass: Flow and Anastomotic Maturity on Follow-Up Imaging” Accepted and presented at CNS 2024.
+- Negash B, Wiggan D, **Sangwon KL**, et al. “Carotid Web Angioarchitecture Based Risk Stratification Assessment May Accurately Determine Low Stroke Risk and Aid in Surgical Patient Selection” Accepted and presented at CNS 2024.
+- Grin E, Negash B, Wiggan D, **Sangwon KL**, et al. “Atypical Carotid Webs: An Elusive Etiology of Acute Stroke” Accepted and presented at CNS 2024.
 - Bounajem, MT. Liang A. **Sangwon KL**. et al. "Carotid artery stenting and endarterectomy for treatment of symptomatic carotid web: a multi-institutional series." Accepted at SNIS 2024.
 - Kim, NC. Budimlija, Z. **Sangwon KL**. et al. “Utility of Pre-flip Intraoperative Neurophysiologic Monitoring Baselines for Posterior Decompression and Fusion for Cervical Spondylotic Myelopathy.” Accepted/Presented at AANS 2024, IMAST 2024, DSPN Spine Summit 2024 - Best Presentation Award.
 - Kim NC, **Sangwon KL**, et al. “The Impact of Sarcopenic Obesity on Adjacent Segment Disease and Mechanical Complications Following Degenerative Lumbar Fusion.” Accepted/presented at DSPN Spine Summit 2024. 
