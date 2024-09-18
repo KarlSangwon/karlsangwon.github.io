@@ -10,10 +10,10 @@ Publications
 - **Sangwon KL,** Nguyen M, Wiggan DD, et al. Assessing superficial temporal artery–middle cerebral artery anastomosis patency using FLOW 800 hemodynamics. J Neurosurg. 2024;1(aop):1-10. doi:10.3171/2024.4.jns24713
 - **Sangwon KL,** Oermann EK, Nossek E. Predicting STA-MCA Anastomosis Success: Insights from FLOW 800 Hemodynamics. (Accepted, World Neurosurg)
 - Alyakin A, Kurland D, Alber D, **Sangwon KL**, et al.CNS-CLIP: Transforming a Neurosurgical Journal into a Multimodal Medical Model. (Accepted Neurosurgery)
+- Alber D, Yang Z, (including **Sangwon KL**) et. al Medical large language models are vulnerable to attack (Accepted, Nature Medicine)
 - Rabbin-Birnbaum C, Wiggan DD, **Sangwon KL**, et al. Learning curve of robotic end-to-side microanastomoses. Oper Neurosurg (Hagerstown). Published online 2024. doi:10.1227/ons.0000000000001187
 - Anonymous Authors (including **Sangwon KL**), et al. Language Models Can Guess Your Identities from De-identified Clinical Notes. Journal of Machine Learning Research. 2024. Pre-print.
 - Alyakin A, Kurland D, Alber D, **Sangwon KL**, et al. CNS-CLIP: Transforming a Neurosurgical Journal into a Multimodal Medical Model. (Revision under review, Neurosurgery)
-- Alber D, Yang Z, (including **Sangwon KL**) et. al Medical large language models are vulnerable to attack (Revision under review, Nature)
 - *von Oiste GG, ***Sangwon KL**, et al. Utilization of Carotid Web Angioarchitecture for Stroke Risk Assessment. World Neurosurg. 2023 Nov; doi:10.1016/j.wneu.2023.11.091
     - *Equal contribution, **co-First Author**
 - Alber D, Lock E, **Sangwon K**, et al. Tmic-84. A deep learning-based method for rapid, patient-specific assay of macrophage infiltration in high-grade glioma using label-free stimulated Raman histology. Neuro Oncol. 2023;25(Supplement_5):v297-v297. doi:10.1093/neuonc/noad179.1149
