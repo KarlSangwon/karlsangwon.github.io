@@ -65,6 +65,7 @@ Publications
 - Alyakin A, Kurland D, Alber D, **Sangwon KL**, et al.CNS-CLIP: Transforming a Neurosurgical Journal into a Multimodal Medical Model. (Accepted Neurosurgery)
 - Grin EA, Wiggan DD, **Sangwon KL**, et al. Interrupted Versus Running Sutures for STA-MCA Cranial Bypass. (Accepted, Operative Neurosurgery)
 - Rabbin-Birnbaum C, Wiggan DD, **Sangwon KL**, et al. Learning curve of robotic end-to-side microanastomoses. Oper Neurosurg (Hagerstown). Published online 2024. doi:10.1227/ons.0000000000001187
+- Covell MM, Maroufi SF, Kurland D, **Sangwon KL**, et al. The Bibliometric Evolution of Neurosurgery Publications from 1977 to 2023. Neurosurgery Practice. In press.
 - Eremiev AN, Orillac C, **Sangwon KL**, et al. Disparities in neurosurgical care: Using length of stay to evaluate efficiency of care in New York City hospitals. J Hosp Adm. 2024;13(2):59.
 - Anonymous Authors (including **Sangwon KL**), et al. Language Models Can Guess Your Identities from De-identified Clinical Notes. Journal of Machine Learning Research. 2024. Pre-print.
 - *von Oiste GG, ***Sangwon KL**, et al. Utilization of Carotid Web Angioarchitecture for Stroke Risk Assessment. World Neurosurg. 2023 Nov; doi:10.1016/j.wneu.2023.11.091
