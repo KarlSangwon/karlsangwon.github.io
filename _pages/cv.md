@@ -79,7 +79,7 @@ Abstracts/Presentations
 ======
 *previous name: Sangwon Lee (until 02/2023)*
 
-- **Sangwon KL**, et al. “Clinical Auto-referral Pipeline for Patients with Radiologically Identified Spinal Metastasis Using Natural Language Processing” Accepted and presented at CNS 2024. Awarded Best Basic Science Award - [CNS Data Science Section]
+- **Sangwon KL**, et al. “Clinical Auto-referral Pipeline for Patients with Radiologically Identified Spinal Metastasis Using Natural Language Processing” Accepted and presented at CNS 2024. Awarded Best Basic Science Award - [CNS Data Science Section](https://www.cns.org/2024-cns-honors-and-awards)
 - **Sangwon KL**, et al. “Intraoperative Venous Outflow Assessments During Obliteration of Dural Arteriovenous Fistula Using Hemodynamic Changes of FLOW800 Technology” Accepted and presented at CNS 2024.
 - **Sangwon KL**, et al. “A Generalizable Pipeline For Building An Extensive Domain-Specific Dataset From A Medical Journal - Neurosurgery Edition” Accepted and presented at CNS 2024.
 - **Sangwon KL**, et al. “Intraoperative Anastomotic Flow Measurements During STA-MCA Bypass Using FLOW800 Hemodynamics” Accepted and presented at CNS 2024.
