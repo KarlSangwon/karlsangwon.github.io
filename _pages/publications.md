@@ -10,7 +10,7 @@ Publications
 - **Sangwon KL,** Nguyen M, Wiggan DD, et al. Assessing superficial temporal artery–middle cerebral artery anastomosis patency using FLOW 800 hemodynamics. J Neurosurg. 2024;1(aop):1-10. doi:10.3171/2024.4.jns24713
 - **Sangwon KL,** Oermann EK, Nossek E. Predicting STA-MCA Anastomosis Success: Insights from FLOW 800 Hemodynamics. (Accepted, World Neurosurg)
 - Alber D, Yang Z, (including **Sangwon KL**) et. al. Medical large language models are vulnerable to attack. (Accepted, Nature Medicine)
-- Rosenbaum G, Yang Z, (including **Sangwon KL**) et. al. MedG–KRP: Medical Graph Knowledge Representation Probing. (Under review, ML4H)
+- Rosenbaum G, Yang Z, (including **Sangwon KL**) et. al. MedG–KRP: Medical Graph Knowledge Representation Probing. (Accepted, ML4H)
 - Alyakin A, Kurland D, Alber D, **Sangwon KL**, et al.CNS-CLIP: Transforming a Neurosurgical Journal into a Multimodal Medical Model. (Accepted Neurosurgery)
 - Grin EA, Wiggan DD, **Sangwon KL**, et al. Interrupted Versus Running Sutures for STA-MCA Cranial Bypass. (Accepted, Operative Neurosurgery)
 - Rabbin-Birnbaum C, Wiggan DD, **Sangwon KL**, et al. Learning curve of robotic end-to-side microanastomoses. Oper Neurosurg (Hagerstown). Published online 2024. doi:10.1227/ons.0000000000001187
