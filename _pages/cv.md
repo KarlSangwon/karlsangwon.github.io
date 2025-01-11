@@ -180,7 +180,7 @@ Extracurricular Activites
   *  Held Gallery Exhibit 2018 at Markay Gallery, Marietta, GA  
 
 * Music
-  * Guitarist for a medical student band.
+  * Guitarist for a medical student band. Performed at Winter Concert Night 2024, NYU.
 
 * Volunteering
   * Co-Chair – Johns Hopkins Hospital Art Cart Organization, 
