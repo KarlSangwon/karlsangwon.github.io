@@ -10,19 +10,20 @@ Publications
 - **Sangwon KL,** Nguyen M, Wiggan DD, et al. Assessing superficial temporal artery–middle cerebral artery anastomosis patency using FLOW 800 hemodynamics. J Neurosurg. 2024;1(aop):1-10. doi:10.3171/2024.4.jns24713
 - **Sangwon KL,** Oermann EK, Nossek E. Predicting STA-MCA Anastomosis Success: Insights from FLOW 800 Hemodynamics. World Neurosurg. 2024;192:246-247. doi:10.1016/j.wneu.2024.09.094
 - Alber D, Yang Z, (including **Sangwon KL**) et. al. Medical large language models are vulnerable to data-poisoning attacks. Nature Medicine. 2024. doi:10.1038/s41591-024-03445-1
-- Rosenbaum G, Yang Z, (including **Sangwon KL**) et. al. MedG–KRP: Medical Graph Knowledge Representation Probing. arXiv [csAI]. Published online 2024.
-- Alyakin A, Kurland D, Alber D, **Sangwon KL**, et al. CNS-CLIP: Transforming a Neurosurgical Journal into a Multimodal Medical Model. Neurosurgery. 2024. doi:10.1227/neu.0000000000003297
+- Grin E, Raz E, (including **Sangwon KL**), et al. Atypical Carotid Webs: An Elusive Etiology of Acute Stroke. (Accepted, World Neurosurgery)
 - Grin EA, Wiggan DD, **Sangwon KL**, et al. Interrupted Versus Running Sutures for Superficial Temporal Artery to Middle Cerebral Artery Cranial Bypass. Oper Neurosurg (Hagerstown). 2024. doi:10.1227/ons.0000000000001469
 - Rabbin-Birnbaum C, Wiggan DD, **Sangwon KL**, et al. Learning curve of robotic end-to-side microanastomoses. Oper Neurosurg (Hagerstown). Published online 2024. doi:10.1227/ons.0000000000001187
+- Alyakin A, Kurland D, Alber D, **Sangwon KL**, et al. CNS-CLIP: Transforming a Neurosurgical Journal into a Multimodal Medical Model. Neurosurgery. 2024. doi:10.1227/neu.0000000000003297
 - Covell MM, Maroufi SF, Kurland D, **Sangwon KL**, et al. The Bibliometric Evolution of Neurosurgery Publications from 1977 to 2023. Neurosurgery Practice. In press.
 - Eremiev AN, Orillac C, **Sangwon KL**, et al. Disparities in neurosurgical care: Using length of stay to evaluate efficiency of care in New York City hospitals. J Hosp Adm. 2024;13(2):59.
+- Rosenbaum G, Yang Z, (including **Sangwon KL**) et. al. MedG–KRP: Medical Graph Knowledge Representation Probing. arXiv [csAI]. Published online 2024.
 - Anonymous Authors (including **Sangwon KL**), et al. Language Models Can Guess Your Identities from De-identified Clinical Notes. Journal of Machine Learning Research. 2024. Pre-print.
 - *von Oiste GG, ***Sangwon KL**, et al. Utilization of Carotid Web Angioarchitecture for Stroke Risk Assessment. World Neurosurg. 2023 Nov; doi:10.1016/j.wneu.2023.11.091
     - *Equal contribution, **co-First Author**
 - Alber D, Lock E, **Sangwon K**, et al. Tmic-84. A deep learning-based method for rapid, patient-specific assay of macrophage infiltration in high-grade glioma using label-free stimulated Raman histology. Neuro Oncol. 2023;25(Supplement_5):v297-v297. doi:10.1093/neuonc/noad179.1149
 - **Sangwon KL**, Esparza R, et al. Endoscopic Endonasal Approach for Direct Puncture Embolization of Cavernous Dural Arteriovenous Fistula: 2-Dimensional Operative Video. Operative Neurosurgery. DOI: 10.1227/ons.0000000000000947 
 - Kim NC, **Sangwon KL**, Raz E, Shapiro M, Rutledge C, Nelson PK, Riina HA, Nossek E. Early Experience of Surgical Planning for STA-MCA Bypass Using Virtual Reality. World Neurosurg. 2023 Jun;174:e44-e52. doi: 10.1016/j.wneu.2023.02.113. Epub 2023 Mar 9. PMID: 36906090.
-- Kang BG, Kang SU, Kim JJ, Kwon JS, Gagne JP, Lee SY, Kim S, **Sangwon KL**, et al. Proteome-wide microarray-based screening of PAR-binding proteins. bioRxiv. Published online 2022:2022.06.06.494829. doi:10.1101/2022.06.06.494829 
+- Kang BG, Kang SU, Kim JJ, Kwon JS, Gagne JP, Lee SY, Kim S, **Sangwon KL**, et al. Proteome-wide microarray-based screening of PAR-binding proteins. bioRxiv. Published online 2022:2022.06.06.494829. doi:10.1101/2022.06.06.494829
 
 Abstracts/Presentations
 ======
