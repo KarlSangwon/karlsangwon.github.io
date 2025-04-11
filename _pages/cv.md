@@ -179,7 +179,7 @@ Extracurricular Activites
   *  Magyar Art Award (local art award) 2018, Marietta, GA 
   *  Marietta Chalk Festival 1st Place 2017, 2018 
   *  Featured on Magazine *Cobb in Focus* May/June 2018 Edition. 
-  *  Displayed at *Rescuing Hope* 2017, Atlanta, GA 
+  *  Displayed at *Rescuing Hope* Exhibit 2017, Atlanta, GA 
   *  Held Gallery Exhibit 2018 at Markay Gallery, Marietta, GA  
 
 * Music
