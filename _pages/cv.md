@@ -171,6 +171,7 @@ Extracurricular Activites
 * **Art: See My [Portfolio](https://karlsangwon.wixsite.com/karlsangwon)**
   *  Surrealism/Abstract Painting
   *  Selected for Cover Art of 2023-2024 Agora Print Magazine
+  *  Original poem ‘Galleries of Pain’ featured on 2025 Agora Magazine.
   *  Featured on NYUGSOM 2024 Art House.
   *  Featured on NYUGSOM’s Spring 2024 Edition Agora: The Arts and Literature Magazine [Link](https://www.agoramagazine.org/karl-sangwon-literature)
   *  Selected for Permanent Display 2023 at Student Lounge, NYU Grossman School of Medicine, New York, NY 
