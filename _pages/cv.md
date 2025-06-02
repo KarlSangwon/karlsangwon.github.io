@@ -58,6 +58,7 @@ Research/Work Experience
 
 Publications
 ======
+- Negash B, Wiggan D, Grin E, **Sangwon KL,** et al. “The Use of Carotid Web Angioarchitecture in Stratification of Stroke Risk” (Accepted, Journal of Neurointerventional Surgery)
 - **Sangwon KL,** Han X, et al. Automating the referral of bone metastases patients with and without the use of large language models. 2025 (Accepted, Neurosurgery)
 - **Sangwon KL,** Grin E, et al. Intraoperative Evaluation of Dural Arteriovenous Fistula Obliteration Using FLOW 800 Hemodynamic Analysis. Oper Neurosurg (Hagerstown). doi:10.1227/ons.0000000000001646
 - **Sangwon KL,** Nguyen M, Wiggan DD, et al. Assessing superficial temporal artery–middle cerebral artery anastomosis patency using FLOW 800 hemodynamics. J Neurosurg. 2024;1(aop):1-10. doi:10.3171/2024.4.jns24713
