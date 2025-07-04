@@ -156,7 +156,7 @@ Honors/Awards
 * 2018-2022 – Krieger School of Arts and Sciences & Whitening School of Engineering Dean’s List (All Semesters)
 * 2023 - [NREF Medical Student Summer Neurosurgery Research Fellowship Award](https://www.newswise.com/articles/nref-awards-2023-medical-student-summer-research-fellowships) (\\$2,500), NYU Grossman Summer Research Fellowship Award (\\$3,500)
 * 2024 - [KSAF(Korean American Scholarship Foundation) National Scholarship](https://www.kasf.org/2024-nerc-scholarship-recipients-rev/) (\\$5,000), Congress of Neurological Surgeons 2024 Best Basic Science Award - [CNS Data Science Section](https://www.cns.org/2024-cns-honors-and-awards)
-* 2025 - Stanford Medicine ISP Star Award for Neurosurgery ([SCORE](https://med.stanford.edu/visiting-clerkships/score-program.html) Program Awardee)
+* 2025 - Stanford Medicine ISP Star Award for Neurosurgery ([SCORE](https://med.stanford.edu/visiting-clerkships/score-program.html) Program Awardee), NYU Grossman Research Distinction Award for Neurosurgery
 
 Skills
 ======
