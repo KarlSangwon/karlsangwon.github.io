@@ -67,10 +67,15 @@ Private Hospitals in New York City" Accepted/Presented at AANS 2024
   
 Talks
 ======
-![image](/images/FullSizeRender-1.GIF)
+- Congress of Neurological Surgeons - [Artificial Intelligence in Neurosurgery](https://www.cns.org/meetings-detail/AI-neurosurgery-course)
+  - [Invited Speaker](https://www.cns.org/meetings-detail/AI-neurosurgery-course)
+  - New York, NY 05/31/2025
+  - Invited as a Speaker for Congress of Neurological Surgeons course on AI in Neurosurgery to give an hour talk about "Pearls and Pitfalls of Language Models in Healthcare"
+  - https://www.cns.org/meetings-detail/AI-neurosurgery-course
+
 - New York University - [NYU AI School](https://nyu-mll.github.io/nyu-ai-school-2023/)
   - [Invited Speaker](https://nyu-mll.github.io/nyu-ai-school-2023/speakers/)
   - New York, NY 06/04/2023
   - Invited as a Speaker for NYU Summer AI School sponsored by Google DeepMind to talk about intersection of Medicine and AI.
   - https://nyu-mll.github.io/nyu-ai-school-2023/
-
+![image](/images/FullSizeRender-1.GIF)
