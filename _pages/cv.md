@@ -66,6 +66,7 @@ Publications
 - **Sangwon KL,** Oermann EK, Nossek E. Predicting STA-MCA Anastomosis Success: Insights from FLOW 800 Hemodynamics. World Neurosurg. 2024;192:246-247. doi:10.1016/j.wneu.2024.09.094
 - Alber D, Yang Z, (including **Sangwon KL**) et. al. Medical large language models are vulnerable to data-poisoning attacks. Nature Medicine. 2024. doi:10.1038/s41591-024-03445-1
 - Alyakin A, Stryker J, Alber DA, **Sangwon KL,** et al. Repurposing the scientific literature with vision-language models. arXiv (csAI). Published online 2025. http://arxiv.org/abs/2502.19546
+- Bounajem M, (including **Sangwon KL**), et al. Outcomes after carotid revascularization for symptomatic carotid artery web: a multi-institutional cohort study. (Accepted, Interventional Neuroradiology)
 - Grin E, Raz E, (including **Sangwon KL**), et al. Atypical Carotid Webs: An Elusive Etiology of Acute Stroke. (Accepted, World Neurosurgery)
 - Grin EA, Wiggan DD, **Sangwon KL**, et al. Interrupted Versus Running Sutures for Superficial Temporal Artery to Middle Cerebral Artery Cranial Bypass. Oper Neurosurg (Hagerstown). 2024. doi:10.1227/ons.0000000000001469
 - Rabbin-Birnbaum C, Wiggan DD, **Sangwon KL**, et al. Learning curve of robotic end-to-side microanastomoses. Oper Neurosurg (Hagerstown). Published online 2024. doi:10.1227/ons.0000000000001187
