@@ -56,18 +56,21 @@ Research/Work Experience
   * Areas of Work: Computational Vision. 
   * Supervisor: Peter van Zijl, PhD. Xu Li, PhD.
 
-Publications
+Recent Publications
 ======
-- **Sangwon KL,** Han X, et al. Automating the referral of bone metastases patients with and without the use of large language models. 2025 (Accepted, Neurosurgery)
+- **Sangwon KL,** Han X, et al. Automating the referral of bone metastases patients with and without the use of large language models. Neurosurgery. 2025. doi:10.1227/neu.0000000000003683
 - **Sangwon KL,** Grin E, et al. Intraoperative Evaluation of Dural Arteriovenous Fistula Obliteration Using FLOW 800 Hemodynamic Analysis. Oper Neurosurg (Hagerstown). doi:10.1227/ons.0000000000001646
 - **Sangwon KL,** Nguyen M, Wiggan DD, et al. Assessing superficial temporal artery–middle cerebral artery anastomosis patency using FLOW 800 hemodynamics. J Neurosurg. 2024;1(aop):1-10. doi:10.3171/2024.4.jns24713
 - **Sangwon KL,** Oermann, EK. Publication Comment: Big Data in Neurosurgery: A Guideline on Data Structures, Machine Learning Models, and Ethical Considerations. (Accepted, Operative Neurosurgery)
-- Negash B, Wiggan D, Grin E, **Sangwon KL,** et al. “The Use of Carotid Web Angioarchitecture in Stratification of Stroke Risk” (Accepted, Journal of Neurointerventional Surgery)
+- Negash B, Wiggan D, Grin E, **Sangwon KL,** et al. Use of carotid web angioarchitecture in stratification of stroke risk. J Neurointerv Surg. 2025. doi:10.1136/jnis-2025-023368
 - **Sangwon KL,** Oermann EK, Nossek E. Predicting STA-MCA Anastomosis Success: Insights from FLOW 800 Hemodynamics. World Neurosurg. 2024;192:246-247. doi:10.1016/j.wneu.2024.09.094
 - Alber D, Yang Z, (including **Sangwon KL**) et. al. Medical large language models are vulnerable to data-poisoning attacks. Nature Medicine. 2024. doi:10.1038/s41591-024-03445-1
+- **Sangwon KL,** Zhang J BS, Steele R MS, et al. A multi-AI agent framework for interactive neurosurgical education and evaluation: From vignettes to virtual conversations. medRxiv. 2025. doi:10.1101/2025.08.20.25334084
+- **Sangwon KL,** Zhang J MS, Steele R MS, et al. Evaluating large language model diagnostic performance on JAMA Clinical Challenges via a multi-agent conversational framework. medRxiv. 2025. doi:10.1101/2025.08.20.25334087
 - Alyakin A, Stryker J, Alber DA, **Sangwon KL,** et al. Repurposing the scientific literature with vision-language models. arXiv (csAI). Published online 2025. http://arxiv.org/abs/2502.19546
-- Bounajem M, (including **Sangwon KL**), et al. Outcomes after carotid revascularization for symptomatic carotid artery web: a multi-institutional cohort study. (Accepted, Interventional Neuroradiology)
-- Grin E, Raz E, (including **Sangwon KL**), et al. Atypical Carotid Webs: An Elusive Etiology of Acute Stroke. (Accepted, World Neurosurgery)
+- Bounajem M, (including **Sangwon KL**), et al. Outcomes after carotid revascularization for symptomatic carotid artery web: A multi-institutional cohort study. Interv Neuroradiol. 2025:15910199251365529. doi:10.1177/15910199251365529
+- Grin E, Raz E, (including **Sangwon KL**), et al. Atypical Carotid Webs: An Elusive Etiology of Acute Stroke. World Neurosurg. 2025;196(123770):123770. doi:10.1016/j.wneu.2025.123770
+- **Sangwon KL,** et al. Surgical Occlusion of C1 Spinal Dural Arteriovenous Fistula. (Accepted, Neurosurgical Focus: Video)
 - Grin EA, Wiggan DD, **Sangwon KL**, et al. Interrupted Versus Running Sutures for Superficial Temporal Artery to Middle Cerebral Artery Cranial Bypass. Oper Neurosurg (Hagerstown). 2024. doi:10.1227/ons.0000000000001469
 - Rabbin-Birnbaum C, Wiggan DD, **Sangwon KL**, et al. Learning curve of robotic end-to-side microanastomoses. Oper Neurosurg (Hagerstown). Published online 2024. doi:10.1227/ons.0000000000001187
 - Singh S, (including **Sangwon KL**) et al. It is too many options: Pitfalls of multiple-choice questions in generative AI and medical education. arXiv (csCL). Published online 2025. http://arxiv.org/abs/2503.13508
@@ -87,6 +90,11 @@ Abstracts/Presentations
 ======
 *previous name: 'Karl' Sangwon Lee (until 02/2023)*
 
+- **Sangwon KL,** et al. “Evaluating And Enhancing Large Language Model Diagnostic Reasoning In Neurosurgical Board Education Using A Multi-AI Agent Conversation Framework” Accepted for Oral Presentation at CNS 2025.
+- **Sangwon KL,** et al. “Quantitative Assessment Of Microsurgical Robot-Assisted Versus Hand-Sewn Technique In Cerebrovascular End-to-Side Anastomoses Using AI Motion Tracking” Submitted to CNS 2025. Accepted for Oral Presentation at EANS 2025.
+- **Sangwon KL,** et al. “Intraoperative FLOW800 Hemodynamics Analysis And Long-Term Angiographic Remodeling Outcomes In STA-MCA Bypass” Accepted to CNS 2025.
+- Grin E, **Sangwon KL,** et al. “A Window To The Brain: Trans Sonolucent Cranioplasty Ultrasound For Long-Term STA-MCA Bypass Patency Monitoring” Accepted to CNS 2025.
+- Singh S, (including **Sangwon KL,**), et al. “Evaluating The Performance And Fragility Of Large Language Models On Neurosurgical Board-like Questions” Accepted to CNS 2025.
 - **Sangwon KL**, et al. “Clinical Auto-referral Pipeline for Patients with Radiologically Identified Spinal Metastasis Using Natural Language Processing” Accepted and presented at CNS 2024. Awarded Best Basic Science Award - [CNS Data Science Section](https://www.cns.org/2024-cns-honors-and-awards)
 - **Sangwon KL**, et al. “Intraoperative Venous Outflow Assessments During Obliteration of Dural Arteriovenous Fistula Using Hemodynamic Changes of FLOW800 Technology” Accepted and presented at CNS 2024.
 - **Sangwon KL**, et al. “A Generalizable Pipeline For Building An Extensive Domain-Specific Dataset From A Medical Journal - Neurosurgery Edition” Accepted and presented at CNS 2024.
