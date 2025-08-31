@@ -24,6 +24,7 @@ Recent Publications
 - Rabbin-Birnbaum C, Wiggan DD, **Sangwon KL**, et al. Learning curve of robotic end-to-side microanastomoses. Oper Neurosurg (Hagerstown). Published online 2024. doi:10.1227/ons.0000000000001187
 - Singh S, (including **Sangwon KL**) et al. It is too many options: Pitfalls of multiple-choice questions in generative AI and medical education. arXiv (csCL). Published online 2025. http://arxiv.org/abs/2503.13508
 - Alyakin A, Kurland D, Alber D, **Sangwon KL**, et al. CNS-CLIP: Transforming a Neurosurgical Journal into a Multimodal Medical Model. Neurosurgery. 2024. doi:10.1227/neu.0000000000003297
+- Vishwanath K, (including **Sangwon KL**), et al. Evaluating the performance and fragility of large language models on the self-assessment for neurological surgeons. arXiv (csCL). 2025. http://arxiv.org/abs/2505.23477.
 - Covell MM, Maroufi SF, Kurland D, **Sangwon KL**, et al. The Bibliometric Evolution of Neurosurgery Publications from 1977 to 2023. Neurosurgery Practice. In press.
 - Eremiev AN, Orillac C, **Sangwon KL**, et al. Disparities in neurosurgical care: Using length of stay to evaluate efficiency of care in New York City hospitals. J Hosp Adm. 2024;13(2):59.
 - Rosenbaum G, Yang Z, (including **Sangwon KL**) et. al. MedG–KRP: Medical Graph Knowledge Representation Probing. arXiv [csAI]. Published online 2024.
@@ -43,7 +44,7 @@ Abstracts/Presentations
 - **Sangwon KL,** et al. “Quantitative Assessment Of Microsurgical Robot-Assisted Versus Hand-Sewn Technique In Cerebrovascular End-to-Side Anastomoses Using AI Motion Tracking” Submitted to CNS 2025. Accepted for Oral Presentation at EANS 2025.
 - **Sangwon KL,** et al. “Intraoperative FLOW800 Hemodynamics Analysis And Long-Term Angiographic Remodeling Outcomes In STA-MCA Bypass” Accepted to CNS 2025.
 - Grin E, **Sangwon KL,** et al. “A Window To The Brain: Trans Sonolucent Cranioplasty Ultrasound For Long-Term STA-MCA Bypass Patency Monitoring” Accepted to CNS 2025.
-- Singh S, (including **Sangwon KL,**), et al. “Evaluating The Performance And Fragility Of Large Language Models On Neurosurgical Board-like Questions” Accepted to CNS 2025.
+- Vishwanath K, (including **Sangwon KL,**), et al. “Evaluating The Performance And Fragility Of Large Language Models On Neurosurgical Board-like Questions” Accepted to CNS 2025.
 - **Sangwon KL**, et al. “Clinical Auto-referral Pipeline for Patients with Radiologically Identified Spinal Metastasis Using Natural Language Processing” Accepted and presented at CNS 2024. Awarded Best Basic Science Award - [CNS Data Science Section](https://www.cns.org/2024-cns-honors-and-awards)
 - **Sangwon KL**, et al. “Intraoperative Venous Outflow Assessments During Obliteration of Dural Arteriovenous Fistula Using Hemodynamic Changes of FLOW800 Technology” Accepted and presented at CNS 2024.
 - **Sangwon KL**, et al. “A Generalizable Pipeline For Building An Extensive Domain-Specific Dataset From A Medical Journal - Neurosurgery Edition” Accepted and presented at CNS 2024.
