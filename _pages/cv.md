@@ -76,7 +76,7 @@ Recent Publications
 - Singh S, (including **Sangwon KL**) et al. It is too many options: Pitfalls of multiple-choice questions in generative AI and medical education. arXiv (csCL). Published online 2025. http://arxiv.org/abs/2503.13508
 - Alyakin A, Kurland D, Alber D, **Sangwon KL**, et al. CNS-CLIP: Transforming a Neurosurgical Journal into a Multimodal Medical Model. Neurosurgery. 2024. doi:10.1227/neu.0000000000003297
 - Vishwanath K, (including **Sangwon KL**), et al. Evaluating the performance and fragility of large language models on the self-assessment for neurological surgeons. arXiv (csCL). 2025. http://arxiv.org/abs/2505.23477.
-- Covell MM, Maroufi SF, Kurland D, **Sangwon KL**, et al. The Bibliometric Evolution of Neurosurgery Publications from 1977 to 2023. Neurosurgery Practice. In press.
+- Covell MM, Maroufi SF, Kurland D, **Sangwon KL**, et al. The Bibliometric Evolution of Neurosurgery Publications From 1977 to 2023. Neurosurg Pract. 2025;6(1):e00128. Published 2025 Jan 30. doi:10.1227/neuprac.0000000000000128
 - Eremiev AN, Orillac C, **Sangwon KL**, et al. Disparities in neurosurgical care: Using length of stay to evaluate efficiency of care in New York City hospitals. J Hosp Adm. 2024;13(2):59.
 - Rosenbaum G, Yang Z, (including **Sangwon KL**) et. al. MedG–KRP: Medical Graph Knowledge Representation Probing. arXiv [csAI]. Published online 2024.
 - Anonymous Authors (including **Sangwon KL**), et al. Language Models Can Guess Your Identities from De-identified Clinical Notes. Journal of Machine Learning Research. 2024. Pre-print.
