@@ -65,6 +65,7 @@ Recent Publications
 - Negash B, Wiggan D, Grin E, **Sangwon KL,** et al. Use of carotid web angioarchitecture in stratification of stroke risk. J Neurointerv Surg. 2025. doi:10.1136/jnis-2025-023368
 - **Sangwon KL,** Oermann EK, Nossek E. Predicting STA-MCA Anastomosis Success: Insights from FLOW 800 Hemodynamics. World Neurosurg. 2024;192:246-247. doi:10.1016/j.wneu.2024.09.094
 - Alber D, Yang Z, (including **Sangwon KL**) et. al. Medical large language models are vulnerable to data-poisoning attacks. Nature Medicine. 2024. doi:10.1038/s41591-024-03445-1
+- Grin EA, **Sangwon KL**, et al. Trans Sonolucent Cranioplasty Ultrasonography for Long-Term STA-MCA Bypass Patency Surveillance. (Accepted, Operative Neurosurgery)
 - **Sangwon KL,** Zhang J BS, Steele R MS, et al. A multi-AI agent framework for interactive neurosurgical education and evaluation: From vignettes to virtual conversations. medRxiv. 2025. doi:10.1101/2025.08.20.25334084
 - **Sangwon KL,** Zhang J MS, Steele R MS, et al. Evaluating large language model diagnostic performance on JAMA Clinical Challenges via a multi-agent conversational framework. medRxiv. 2025. doi:10.1101/2025.08.20.25334087
 - Alyakin A, Stryker J, Alber DA, **Sangwon KL,** et al. Repurposing the scientific literature with vision-language models. arXiv (csAI). Published online 2025. http://arxiv.org/abs/2502.19546
