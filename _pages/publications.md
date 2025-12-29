@@ -12,6 +12,7 @@ Recent Publications
 - **Sangwon KL,** Nguyen M, Wiggan DD, et al. Assessing superficial temporal artery–middle cerebral artery anastomosis patency using FLOW 800 hemodynamics. J Neurosurg. 2024;1(aop):1-10. doi:10.3171/2024.4.jns24713
 - **Sangwon KL,** Oermann, EK. Publication Comment: Big Data in Neurosurgery: A Guideline on Data Structures, Machine Learning Models, and Ethical Considerations. (Accepted, Operative Neurosurgery)
 - Negash B, Wiggan D, Grin E, **Sangwon KL,** et al. Use of carotid web angioarchitecture in stratification of stroke risk. J Neurointerv Surg. 2025. doi:10.1136/jnis-2025-023368
+- Gutstadt E, Wiggan DD, Grin EA, **Sangwon KL,** et al. Motion Tracking Analysis of Robotic Versus Hand-Sewn Sutures in End-To-Side Microanastomoses. Oper Neurosurg. 2025. doi:10.1227/ons.0000000000001877
 - **Sangwon KL,** Oermann EK, Nossek E. Predicting STA-MCA Anastomosis Success: Insights from FLOW 800 Hemodynamics. World Neurosurg. 2024;192:246-247. doi:10.1016/j.wneu.2024.09.094
 - Alber D, Yang Z, (including **Sangwon KL**) et. al. Medical large language models are vulnerable to data-poisoning attacks. Nature Medicine. 2024. doi:10.1038/s41591-024-03445-1
 - Grin EA, **Sangwon KL**, et al. Trans Sonolucent Cranioplasty Ultrasonography for Long-Term STA-MCA Bypass Patency Surveillance. (Accepted, Operative Neurosurgery)
