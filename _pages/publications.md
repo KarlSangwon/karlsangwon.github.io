@@ -13,10 +13,11 @@ Recent Publications
 - **Sangwon KL,** Oermann, EK. Publication Comment: Big Data in Neurosurgery: A Guideline on Data Structures, Machine Learning Models, and Ethical Considerations. (Accepted, Operative Neurosurgery)
 - Negash B, Wiggan D, Grin E, **Sangwon KL,** et al. Use of carotid web angioarchitecture in stratification of stroke risk. J Neurointerv Surg. 2025. doi:10.1136/jnis-2025-023368
 - Gutstadt E, Wiggan DD, Grin EA, **Sangwon KL,** et al. Motion Tracking Analysis of Robotic Versus Hand-Sewn Sutures in End-To-Side Microanastomoses. Oper Neurosurg. 2025. doi:10.1227/ons.0000000000001877
+- Jiang LY, (including **Sangwon KL**) et al. Generalist foundation models are not clinical enough for hospital operations. arXiv (csCL). Published online 2025. doi:10.48550/arXiv.2511.13703
 - **Sangwon KL,** Oermann EK, Nossek E. Predicting STA-MCA Anastomosis Success: Insights from FLOW 800 Hemodynamics. World Neurosurg. 2024;192:246-247. doi:10.1016/j.wneu.2024.09.094
 - Alber D, Yang Z, (including **Sangwon KL**) et. al. Medical large language models are vulnerable to data-poisoning attacks. Nature Medicine. 2024. doi:10.1038/s41591-024-03445-1
 - Grin EA, **Sangwon KL**, et al. Trans Sonolucent Cranioplasty Ultrasonography for Long-Term STA-MCA Bypass Patency Surveillance. (Accepted, Operative Neurosurgery)
-- **Sangwon KL,** Zhang J BS, Steele R MS, et al. A multi-AI agent framework for interactive neurosurgical education and evaluation: From vignettes to virtual conversations. medRxiv. 2025. doi:10.1101/2025.08.20.25334084
+- **Sangwon KL,** Zhang J BS, Steele R MS, et al. A multi-AI agent framework for interactive neurosurgical education and evaluation: From vignettes to virtual conversations. medRxiv. 2025. doi:10.1101/2025.08.20.25334084 (Accepted, Neurosurgery Practice)
 - **Sangwon KL,** Zhang J MS, Steele R MS, et al. Evaluating large language model diagnostic performance on JAMA Clinical Challenges via a multi-agent conversational framework. medRxiv. 2025. doi:10.1101/2025.08.20.25334087
 - Alyakin A, Stryker J, Alber DA, **Sangwon KL,** et al. Repurposing the scientific literature with vision-language models. arXiv (csAI). Published online 2025. http://arxiv.org/abs/2502.19546
 - Bounajem M, (including **Sangwon KL**), et al. Outcomes after carotid revascularization for symptomatic carotid artery web: A multi-institutional cohort study. Interv Neuroradiol. 2025:15910199251365529. doi:10.1177/15910199251365529
@@ -24,9 +25,9 @@ Recent Publications
 - **Sangwon KL,** et al. Surgical Occlusion of C1 Spinal Dural Arteriovenous Fistula. (Accepted, Neurosurgical Focus: Video)
 - Grin EA, Wiggan DD, **Sangwon KL**, et al. Interrupted Versus Running Sutures for Superficial Temporal Artery to Middle Cerebral Artery Cranial Bypass. Oper Neurosurg (Hagerstown). 2024. doi:10.1227/ons.0000000000001469
 - Rabbin-Birnbaum C, Wiggan DD, **Sangwon KL**, et al. Learning curve of robotic end-to-side microanastomoses. Oper Neurosurg (Hagerstown). Published online 2024. doi:10.1227/ons.0000000000001187
-- Singh S, (including **Sangwon KL**) et al. It is too many options: Pitfalls of multiple-choice questions in generative AI and medical education. arXiv (csCL). Published online 2025. http://arxiv.org/abs/2503.13508
+- Singh S, (including **Sangwon KL**) et al. The pitfalls of multiple-choice questions in generative AI and medical education. Sci Rep. 2025;15(1):42096. doi:10.1038/s41598-025-26036-7
 - Alyakin A, Kurland D, Alber D, **Sangwon KL**, et al. CNS-CLIP: Transforming a Neurosurgical Journal into a Multimodal Medical Model. Neurosurgery. 2024. doi:10.1227/neu.0000000000003297
-- Vishwanath K, (including **Sangwon KL**), et al. Evaluating the performance and fragility of large language models on the self-assessment for neurological surgeons. arXiv (csCL). 2025. http://arxiv.org/abs/2505.23477.
+- Vishwanath K, (including **Sangwon KL**), et al. Evaluating the performance and fragility of large language models on the self-assessment for neurological surgeons. Neurosurgery 2025. doi:10.1227/neu.0000000000003878
 - Covell MM, Maroufi SF, Kurland D, **Sangwon KL**, et al. The Bibliometric Evolution of Neurosurgery Publications From 1977 to 2023. Neurosurg Pract. 2025;6(1):e00128. Published 2025 Jan 30. doi:10.1227/neuprac.0000000000000128
 - Eremiev AN, Orillac C, **Sangwon KL**, et al. Disparities in neurosurgical care: Using length of stay to evaluate efficiency of care in New York City hospitals. J Hosp Adm. 2024;13(2):59.
 - Rosenbaum G, Yang Z, (including **Sangwon KL**) et. al. MedG–KRP: Medical Graph Knowledge Representation Probing. arXiv [csAI]. Published online 2024.
